@@ -1,0 +1,91 @@
+status: 200
+content-length: 2556
+expires: Sat, 09 Apr 2016 20:22:34 GMT
+content-location: https://reviews.ubuntu.com/reviews/api/1.0/reviews/filter/en/any/any/any/gatos/page/1/helpful/
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+vary: Accept
+server: gunicorn/19.3.0
+last-modified: Sat, 09 Apr 2016 20:17:34 GMT
+x-bzr-revision-number: 313
+cache-control: max-age=300
+date: Sat, 09 Apr 2016 20:17:34 GMT
+content-type: application/json; charset=utf-8
+
+[
+    {
+        "origin": "ubuntu", 
+        "rating": 4, 
+        "hide": false, 
+        "app_name": "xatitv", 
+        "language": "en", 
+        "reviewer_username": "EH8pXCY", 
+        "usefulness_total": 1, 
+        "usefulness_favorable": 1, 
+        "review_text": "good", 
+        "date_deleted": null, 
+        "summary": "good", 
+        "version": "0.0.5-19ubuntu1", 
+        "id": 24634, 
+        "date_created": "2011-10-16 08:31:06", 
+        "reviewer_displayname": "ramesh", 
+        "package_name": "gatos", 
+        "distroseries": "natty"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "xatitv", 
+        "language": "en", 
+        "reviewer_username": "mjulbe", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "Finally got my ATI Rage Pro Tuner card working! I kept getting \"No Signal\" after installing another program. but installed this one and presto!", 
+        "date_deleted": null, 
+        "summary": "Made my ATI Rage Pro work", 
+        "version": "0.0.5-19ubuntu1", 
+        "id": 34601, 
+        "date_created": "2012-01-01 23:03:18", 
+        "reviewer_displayname": "Michael Julbe", 
+        "package_name": "gatos", 
+        "distroseries": "oneiric"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 2, 
+        "hide": false, 
+        "app_name": "gatos-conf", 
+        "language": "en", 
+        "reviewer_username": "will33har", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "did not work with my tv wonder pro...", 
+        "date_deleted": null, 
+        "summary": "tv?", 
+        "version": "0.0.5-19ubuntu1", 
+        "id": 72565, 
+        "date_created": "2013-05-16 15:33:57", 
+        "reviewer_displayname": "will", 
+        "package_name": "gatos", 
+        "distroseries": "precise"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 1, 
+        "hide": false, 
+        "app_name": "xatitv", 
+        "language": "en", 
+        "reviewer_username": "cgcordiner", 
+        "usefulness_total": 0, 
+        "usefulness_favorable": 0, 
+        "review_text": "Does not seem to work in 13.04 will stick with tvtime for now.", 
+        "date_deleted": null, 
+        "summary": "Not for 13.04", 
+        "version": "0.0.5-19ubuntu1", 
+        "id": 77864, 
+        "date_created": "2013-09-04 18:31:25", 
+        "reviewer_displayname": "Christopher G Cordiner", 
+        "package_name": "gatos", 
+        "distroseries": "raring"
+    }
+]

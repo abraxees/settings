@@ -1,21 +1,27 @@
 status: 200
-content-location: https://software-center.ubuntu.com/api/2.0/exhibits/en/trusty/
+x-request-id: VwliqgoZOCUAACpuBuEAAACl1
+via: 1.1 juju-prod45-u1-sca-machine-25 (squid/3.3.8)
+x-cache: MISS from juju-prod45-u1-sca-machine-25
 content-language: en
-expires: Wed, 26 Nov 2014 12:59:53 GMT
+x-cache-lookup: HIT from juju-prod45-u1-sca-machine-25:3128
+expires: Sat, 09 Apr 2016 20:16:36 GMT
 vary: Authorization,Accept-Language,Cookie
-server: Apache/2.2.22 (Ubuntu)
-last-modified: Wed, 26 Nov 2014 12:49:53 GMT
-etag: "f59c332c2d99179b7f00b7923c85cb31"
+server: gunicorn/19.3.0
+last-modified: Sat, 09 Apr 2016 20:06:36 GMT
+etag: "3d50c155f4e5fa28ddb9377fdb4f8932"
+strict-transport-security: max-age=2592000
 cache-control: max-age=600
-date: Tue, 02 Dec 2014 17:48:35 GMT
+date: Sat, 09 Apr 2016 20:08:51 GMT
+x-bzr-revision-number: 2885
 content-type: application/json; charset=utf-8
+content-location: https://software-center.ubuntu.com/api/2.0/exhibits/en/trusty/
 
 [
     {
         "package_names": "leadwerks\r\nleadwerks-indie", 
         "click_url": "", 
         "weight": 1, 
-        "banner_url": "http://software-center.ubuntu.com/site_media/exhibits/2014/05/leadwerks-ubuntu-banner.png", 
+        "banner_url": "https://software-center.ubuntu.com/site_media/exhibits/2014/05/leadwerks-ubuntu-banner.png", 
         "distroseries": [
             {
                 "version": "12.04", 
@@ -34,7 +40,7 @@ content-type: application/json; charset=utf-8
         "published": true, 
         "date_created": "2014-05-09 17:54:22", 
         "banner_urls": [
-            "http://software-center.ubuntu.com/site_media/exhibits/2014/05/leadwerks-ubuntu-banner.png"
+            "https://software-center.ubuntu.com/site_media/exhibits/2014/05/leadwerks-ubuntu-banner.png"
         ], 
         "id": 101
     }

@@ -1,0 +1,108 @@
+status: 200
+content-length: 2411
+expires: Sun, 10 Apr 2016 00:14:14 GMT
+content-location: https://reviews.ubuntu.com/reviews/api/1.0/review-stats/any/any/updates-last-1-days/
+strict-transport-security: max-age=15768000; includeSubDomains; preload
+vary: Accept,Accept-Encoding
+server: gunicorn/19.3.0
+last-modified: Sat, 09 Apr 2016 20:14:14 GMT
+-content-encoding: gzip
+x-bzr-revision-number: 313
+cache-control: max-age=14400
+date: Sat, 09 Apr 2016 20:14:33 GMT
+content-type: application/json; charset=utf-8
+-varied-accept-encoding: gzip, deflate
+
+[
+    {
+        "ratings_total": 37, 
+        "ratings_average": "4.30", 
+        "app_name": "", 
+        "package_name": "medit", 
+        "histogram": "[5, 1, 1, 1, 29]"
+    }, 
+    {
+        "ratings_total": 3, 
+        "ratings_average": "4.67", 
+        "app_name": "", 
+        "package_name": "wordnet-gui", 
+        "histogram": "[0, 0, 0, 1, 2]"
+    }, 
+    {
+        "ratings_total": 18, 
+        "ratings_average": "2.39", 
+        "app_name": "", 
+        "package_name": "gnome-maps", 
+        "histogram": "[8, 4, 1, 1, 4]"
+    }, 
+    {
+        "ratings_total": 219, 
+        "ratings_average": "2.55", 
+        "app_name": "", 
+        "package_name": "pitivi", 
+        "histogram": "[79, 44, 28, 33, 35]"
+    }, 
+    {
+        "ratings_total": 161, 
+        "ratings_average": "4.66", 
+        "app_name": "", 
+        "package_name": "mypaint", 
+        "histogram": "[4, 5, 4, 16, 132]"
+    }, 
+    {
+        "ratings_total": 105, 
+        "ratings_average": "2.63", 
+        "app_name": "", 
+        "package_name": "gtkpod", 
+        "histogram": "[46, 10, 10, 15, 24]"
+    }, 
+    {
+        "ratings_total": 52, 
+        "ratings_average": "4.08", 
+        "app_name": "", 
+        "package_name": "gnome-commander", 
+        "histogram": "[4, 2, 6, 14, 26]"
+    }, 
+    {
+        "ratings_total": 43, 
+        "ratings_average": "4.81", 
+        "app_name": "", 
+        "package_name": "variety", 
+        "histogram": "[1, 0, 0, 4, 38]"
+    }, 
+    {
+        "ratings_total": 289, 
+        "ratings_average": "4.20", 
+        "app_name": "", 
+        "package_name": "kazam", 
+        "histogram": "[29, 13, 20, 35, 192]"
+    }, 
+    {
+        "ratings_total": 82, 
+        "ratings_average": "2.57", 
+        "app_name": "", 
+        "package_name": "webbrowser-app", 
+        "histogram": "[30, 13, 14, 12, 13]"
+    }, 
+    {
+        "ratings_total": 1334, 
+        "ratings_average": "4.33", 
+        "app_name": "", 
+        "package_name": "firefox", 
+        "histogram": "[99, 46, 87, 183, 919]"
+    }, 
+    {
+        "ratings_total": 490, 
+        "ratings_average": "4.78", 
+        "app_name": "", 
+        "package_name": "stellarium", 
+        "histogram": "[9, 5, 5, 45, 426]"
+    }, 
+    {
+        "ratings_total": 29, 
+        "ratings_average": "4.38", 
+        "app_name": "", 
+        "package_name": "gsmartcontrol", 
+        "histogram": "[2, 2, 0, 4, 21]"
+    }
+]

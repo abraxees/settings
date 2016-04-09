@@ -1,0 +1,20 @@
+status: 200
+content-length: 99
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: https://rec.ubuntu.com/api/1.0/recommend_app/ubuntustudio-menu/
+x-cache: MISS from papeda.canonical.com
+x-cache-lookup: HIT from papeda.canonical.com:3128
+expires: Sat, 09 Apr 2016 20:19:43 GMT
+server: Apache
+last-modified: Sat, 09 Apr 2016 20:14:43 GMT
+etag: "e3a027d0fd42fc9f42a4362a3c818cae"
+strict-transport-security: max-age=2592000
+cache-control: max-age=300
+date: Sat, 09 Apr 2016 20:14:43 GMT
+content-type: application/json; charset=utf-8
+
+{
+    "rid": "f4bebfc20326e6b59fa22ffc93bea07e", 
+    "data": [], 
+    "app": "ubuntustudio-menu"
+}

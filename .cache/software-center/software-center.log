@@ -175,3 +175,56 @@ None
 2014-12-02 11:50:34,052 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
 2014-12-02 11:50:36,179 - softwarecenter.ui.gtk3.gmenusearch - WARNING - could not load GMenu path: Failed to look up menu_file for "applications.menu"
 
+2016-04-09 23:14:32,087 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2016-04-09 23:14:33,208 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-04-09 23:14:33,357 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-04-09 23:14:33,358 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2016-04-09 23:14:33,389 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:14:34,695 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2016-04-09 23:14:34,696 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+2016-04-09 23:14:34,697 - softwarecenter.ui.gtk3.views.lobbyview - WARNING - skipping exhibit for: 'u'leadwerks\r\nleadwerks-indie'' not available
+2016-04-09 23:14:38,438 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-04-09 23:14:39,834 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2016-04-09 23:14:59,786 - softwarecenter.backend - WARNING - _on_trans_error: 'TransactionFailed(u'error-dep-resolution-failed:  The following packages have unmet dependencies:\n\ntracker-gui: Depends: libc6 (>= 2.3.4) but 2.19-0ubuntu6.7 is to be installed\n             Depends: libgdk-pixbuf2.0-0 (>= 2.22.0) but 2.30.7-0ubuntu1.2 is to be installed\n             Depends: libglib2.0-0 (>= 2.37.3) but 2.40.2-0ubuntu1 is to be installed\n             Depends: libgtk-3-0 (>= 3.0.0) but 3.10.8-0ubuntu1.6 is to be installed\n             Depends: libnautilus-extension1a (>= 1:2.91) but 1:3.10.1-0ubuntu9.11 is to be installed\n             Depends: libtracker-sparql-0.16-0 (= 0.16.2-1ubuntu4) but 0.16.5-0ubuntu0.1 is to be installed\n             Depends: tracker (= 0.16.2-1ubuntu4) but 0.16.5-0ubuntu0.1 is to be installed\n',)' '<AptTransaction object at 0x7fe9a1f4ac80 (aptdaemon+client+AptTransaction at 0x4631120)>' 'tracker-gui'
+2016-04-09 23:14:59,880 - softwarecenter.backend - ERROR - error in _on_trans_finished 'Error: Package dependencies cannot be resolved
+This error could be caused by required additional software packages which are missing or not installable. Furthermore there could be a conflict between software packages which are not allowed to be installed at the same time.
+
+The following packages have unmet dependencies:
+
+tracker-gui: Depends: libc6 (>= 2.3.4) but 2.19-0ubuntu6.7 is to be installed
+             Depends: libgdk-pixbuf2.0-0 (>= 2.22.0) but 2.30.7-0ubuntu1.2 is to be installed
+             Depends: libglib2.0-0 (>= 2.37.3) but 2.40.2-0ubuntu1 is to be installed
+             Depends: libgtk-3-0 (>= 3.0.0) but 3.10.8-0ubuntu1.6 is to be installed
+             Depends: libnautilus-extension1a (>= 1:2.91) but 1:3.10.1-0ubuntu9.11 is to be installed
+             Depends: libtracker-sparql-0.16-0 (= 0.16.2-1ubuntu4) but 0.16.5-0ubuntu0.1 is to be installed
+             Depends: tracker (= 0.16.2-1ubuntu4) but 0.16.5-0ubuntu0.1 is to be installed
+'
+2016-04-09 23:15:04,234 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:15:45,813 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:15:56,033 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:16:05,031 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:16:16,033 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:16:24,525 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterRecommenderAPI', 'recommend_app', '{"pkgname": "auto-mouse-click"}']'
+2016-04-09 23:16:24,525 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:404: {'status': '404', 'content-length': '65', 'via': '1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'MISS from sumac.canonical.com', 'x-cache-lookup': 'HIT from sumac.canonical.com:3128', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache', 'etag': '"a986bdb55925f70475c6c08b1b597004"', 'cache-control': 'max-age=300', 'date': 'Sat, 09 Apr 2016 20:16:24 GMT', 'content-type': 'text/html; charset=utf-8'}
+'
+2016-04-09 23:16:24,526 - softwarecenter.db.categories - WARNING - Error while accessing the recommender service: WARNING:__main__:404: {'status': '404', 'content-length': '65', 'via': '1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'MISS from sumac.canonical.com', 'x-cache-lookup': 'HIT from sumac.canonical.com:3128', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache', 'etag': '"a986bdb55925f70475c6c08b1b597004"', 'cache-control': 'max-age=300', 'date': 'Sat, 09 Apr 2016 20:16:24 GMT', 'content-type': 'text/html; charset=utf-8'}
+
+2016-04-09 23:16:24,526 - softwarecenter.ui.gtk3.widgets.recommendations - WARNING - Error while accessing the recommender agent: WARNING:__main__:404: {'status': '404', 'content-length': '65', 'via': '1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'MISS from sumac.canonical.com', 'x-cache-lookup': 'HIT from sumac.canonical.com:3128', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache', 'etag': '"a986bdb55925f70475c6c08b1b597004"', 'cache-control': 'max-age=300', 'date': 'Sat, 09 Apr 2016 20:16:24 GMT', 'content-type': 'text/html; charset=utf-8'}
+
+2016-04-09 23:16:57,261 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:17:08,034 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:17:34,804 - softwarecenter.db.pkginfo_impl.aptcache - ERROR - simulate failed
+None
+2016-04-09 23:18:05,585 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:18:17,034 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:18:28,561 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:18:32,717 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:18:44,033 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-04-09 23:19:18,597 - softwarecenter.ui.gtk3.app - INFO - found a running software-center on dbus, reconnecting
+2016-04-09 23:19:50,593 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()

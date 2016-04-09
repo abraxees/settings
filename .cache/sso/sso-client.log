@@ -229,3 +229,26 @@
 2016-04-09 23:09:20,308:308.473110199 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu One'), result is {}? True
 2016-04-09 23:09:20,308:308.604001999 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu One'),) and kwargs {}
 2016-04-09 23:09:30,318:318.788051605 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x7f8b4ae1b140>.
+2016-04-09 23:14:21,165:165.91501236 - ubuntu_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-09 23:14:21,176:176.716089249 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-09 23:14:21,179:179.754972458 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2016-04-09 23:14:21,179:179.87704277 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2016-04-09 23:14:21,186:186.398983002 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu One'), result is {}? True
+2016-04-09 23:14:21,186:186.561107635 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu One'),) and kwargs {}
+2016-04-09 23:14:31,196:196.039915085 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x7f3b6749f140>.
+2016-04-09 23:14:32,209:209.321022034 - ubuntu_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-09 23:14:32,221:221.117973328 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-09 23:14:32,224:224.266052246 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2016-04-09 23:14:32,224:224.390029907 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2016-04-09 23:14:32,230:230.624914169 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu One'), result is {}? True
+2016-04-09 23:14:32,230:230.765104294 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu One'),) and kwargs {}
+2016-04-09 23:14:37,653:653.37395668 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu One'), result is {}? True
+2016-04-09 23:14:37,653:653.516054153 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu One'),) and kwargs {}
+2016-04-09 23:14:42,235:235.503911972 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x7f503abf7140>.
+2016-04-09 23:19:21,165:165.167093277 - ubuntu_sso.utils.translation - WARNING - Translations not found, using null translator.
+2016-04-09 23:19:21,177:177.120923996 - ubuntu_sso.main - INFO - Setting up Ubuntu SSO service.
+2016-04-09 23:19:21,180:180.090904236 - ubuntu_sso.main - INFO - Ubuntu SSO service started.
+2016-04-09 23:19:21,180:180.242061615 - ubuntu_sso.account - INFO - Creating a new SSO access layer for service url u'https://login.ubuntu.com/api/1.0/'
+2016-04-09 23:19:21,187:187.611103058 - ubuntu_sso.credentials - INFO - find_credentials: self.app_name dbus.String(u'Ubuntu One'), result is {}? True
+2016-04-09 23:19:21,187:187.772989273 - ubuntu_sso.main - INFO - 'CredentialsManagement': emitting 'CredentialsNotFound' with args (dbus.String(u'Ubuntu One'),) and kwargs {}
+2016-04-09 23:19:31,197:197.150945663 - ubuntu_sso.main - INFO - Shutting down, calling <function shutdown_func at 0x7f9d846bd140>.

@@ -2293,3 +2293,11 @@ compiz (decor) - Warn: failed to bind pixmap to texture
 ** (mate-terminal:31341): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
 
 ** (zeitgeist-datahub:16082): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+/var/lib/dpkg/lock: 
+
+** (gnome-control-center.real:17492): WARNING **: Not loading desktop file '/usr/share/applications/light-locker-settings.desktop' because it uses the X-GNOME-Settings-Panel category but isn't a panel.
+2016-04-09 23:19:18,597 - softwarecenter.ui.gtk3.app - INFO - found a running software-center on dbus, reconnecting
+(gnome-language-selector:6072): Gtk-DEBUG: Connecting to session manager
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+/var/lib/dpkg/lock: 

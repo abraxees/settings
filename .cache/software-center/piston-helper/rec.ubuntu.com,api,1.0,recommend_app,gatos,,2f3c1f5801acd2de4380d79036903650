@@ -1,0 +1,20 @@
+status: 200
+content-length: 87
+via: 1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: https://rec.ubuntu.com/api/1.0/recommend_app/gatos/
+x-cache: MISS from sumac.canonical.com
+x-cache-lookup: HIT from sumac.canonical.com:3128
+expires: Sat, 09 Apr 2016 20:22:34 GMT
+server: Apache
+last-modified: Sat, 09 Apr 2016 20:17:34 GMT
+etag: "29f1558b779947453865987a4089ec1e"
+strict-transport-security: max-age=2592000
+cache-control: max-age=300
+date: Sat, 09 Apr 2016 20:17:34 GMT
+content-type: application/json; charset=utf-8
+
+{
+    "rid": "dce9672b6f2a86e2367ce097aae4fa6c", 
+    "data": [], 
+    "app": "gatos"
+}
