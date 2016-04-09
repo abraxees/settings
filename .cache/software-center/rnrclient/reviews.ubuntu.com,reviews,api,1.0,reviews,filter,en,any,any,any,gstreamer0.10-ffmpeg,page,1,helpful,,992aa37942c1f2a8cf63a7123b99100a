@@ -1,0 +1,188 @@
+status: 200
+content-length: 6693
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: http://reviews.ubuntu.com/reviews/api/1.0/reviews/filter/en/any/any/any/gstreamer0.10-ffmpeg/page/1/helpful/
+x-cache: MISS from papeda.canonical.com
+x-cache-lookup: HIT from papeda.canonical.com:3128
+expires: Tue, 02 Dec 2014 17:54:58 GMT
+vary: Accept
+server: Apache/2.2.22 (Ubuntu)
+last-modified: Tue, 02 Dec 2014 17:49:58 GMT
+connection: close
+cache-control: max-age=300
+date: Tue, 02 Dec 2014 17:49:58 GMT
+content-type: application/json; charset=utf-8
+
+[
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "checoimg", 
+        "usefulness_total": 3, 
+        "usefulness_favorable": 3, 
+        "review_text": "Has always worked!", 
+        "date_deleted": null, 
+        "summary": "Has worked since 8.04", 
+        "version": "0.10.13-5", 
+        "id": 69551, 
+        "date_created": "2013-03-31 23:09:24", 
+        "reviewer_displayname": "checoimg", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "raring"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 1, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "astralman77", 
+        "usefulness_total": 1, 
+        "usefulness_favorable": 0, 
+        "review_text": "It worked ok at first. I viewed maybe two or three wmv files and mp4 files. however, after downloading several now both formats play extremely slow, but consistent speed with either intermittent or no sound. i THOUGHT it was a corrupt download at first but all HD movies or wmv or mp4 are doing so now. i give it a one star", 
+        "date_deleted": null, 
+        "summary": "slow video playback and no sound", 
+        "version": "0.10.13-5", 
+        "id": 63244, 
+        "date_created": "2012-12-24 15:52:43", 
+        "reviewer_displayname": "William Chambers", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "quantal"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "corphicks", 
+        "usefulness_total": 5, 
+        "usefulness_favorable": 4, 
+        "review_text": "Works for me.", 
+        "date_deleted": null, 
+        "summary": "Works for me.", 
+        "version": "0.10.13-1", 
+        "id": 47083, 
+        "date_created": "2012-05-17 05:36:52", 
+        "reviewer_displayname": "Attila Csipak", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "precise"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 1, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "ENt4bpn", 
+        "usefulness_total": 7, 
+        "usefulness_favorable": 4, 
+        "review_text": "Judging by the other reviews I must be doing something wrong. I have this installed but still cannot play WMV files", 
+        "date_deleted": null, 
+        "summary": "am I missing something?", 
+        "version": "0.10.12-1ubuntu1", 
+        "id": 30349, 
+        "date_created": "2011-11-19 15:34:57", 
+        "reviewer_displayname": "LeSquidge", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "oneiric"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 1, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "hF3cKrB", 
+        "usefulness_total": 4, 
+        "usefulness_favorable": 1, 
+        "review_text": "After installing this, Banshee still can't play MPEG-4 files. Maybe I'm doing something wrong.", 
+        "date_deleted": null, 
+        "summary": "MPEG-4 support?", 
+        "version": "0.10.12-1ubuntu1", 
+        "id": 31128, 
+        "date_created": "2011-11-26 13:59:12", 
+        "reviewer_displayname": "Mossmyr", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "oneiric"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "dreamsare4living", 
+        "usefulness_total": 13, 
+        "usefulness_favorable": 13, 
+        "review_text": "GStreamer is one of the reasons people can use Linux exclusively, without having to use proprietary operating systems. GStreamer Plugins add support for almost all media types.", 
+        "date_deleted": null, 
+        "summary": "Can't live without it", 
+        "version": "0.10.11-4", 
+        "id": 1776, 
+        "date_created": "2011-04-06 12:04:42", 
+        "reviewer_displayname": "sarton85", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "natty"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "opeth-geek", 
+        "usefulness_total": 6, 
+        "usefulness_favorable": 6, 
+        "review_text": "Fantastic plugins, used them as soon as I installed Ubuntu.", 
+        "date_deleted": null, 
+        "summary": "Fantastic plugins", 
+        "version": "0.10.11-4", 
+        "id": 2389, 
+        "date_created": "2011-04-17 18:21:59", 
+        "reviewer_displayname": "Chris Greene", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "natty"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 5, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "RfDyzkJ", 
+        "usefulness_total": 3, 
+        "usefulness_favorable": 3, 
+        "review_text": "Plugins is very usefull....", 
+        "date_deleted": null, 
+        "summary": "awesome :-)", 
+        "version": "0.10.11-4", 
+        "id": 50525, 
+        "date_created": "2012-06-24 09:04:07", 
+        "reviewer_displayname": "sunil sharma", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "natty"
+    }, 
+    {
+        "origin": "ubuntu", 
+        "rating": 4, 
+        "hide": false, 
+        "app_name": "GStreamer ffmpeg video plugin", 
+        "language": "en", 
+        "reviewer_username": "ryeckley82", 
+        "usefulness_total": 2, 
+        "usefulness_favorable": 2, 
+        "review_text": "I would say this plugin does a very good job if you have a high-end video accelerated system (as in it can do 3D overlays). Can be a little choppy, I'll be honest. But gotta appreciate the fact that it's FREE and I don't have to pay any proprietary company a penny. I love it :)", 
+        "date_deleted": null, 
+        "summary": "Requires high-end system for good performance", 
+        "version": "0.10.11-4", 
+        "id": 13026, 
+        "date_created": "2011-06-19 23:30:14", 
+        "reviewer_displayname": "Robert Yeckley", 
+        "package_name": "gstreamer0.10-ffmpeg", 
+        "distroseries": "natty"
+    }
+]

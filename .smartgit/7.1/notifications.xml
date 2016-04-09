@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obj key="UiConfig" type="@NotificationSettings" id="_ID_1">
+	<collection key="readNotifications" type="String"/>
+	<collection key="dontPublishNotifications" type="String"/>
+</obj>

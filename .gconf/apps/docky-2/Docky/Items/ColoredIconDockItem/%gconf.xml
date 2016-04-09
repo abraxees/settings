@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="MountItem__media_timur_DEUSEX" mtime="1460231459" type="int" value="0"/>
+	<entry name="MountItem__media_timur_MEDIA_NT" mtime="1460231459" type="int" value="0"/>
+	<entry name="MountItem__media_vlad_45b35a93_db52_4a47_ae62_f52823b42529" mtime="1460231459" type="int" value="0"/>
+	<entry name="MountItem__media_vlad_LEGACY_BOOT" mtime="1460231459" type="int" value="0"/>
+	<entry name="MountItem__media_vlad_MEDIAFAT" mtime="1460231459" type="int" value="0"/>
+	<entry name="MountItem_" mtime="1417543345" type="int" value="0"/>
+	<entry name="MountItem__media_scott_Mac_OSX" mtime="1417534470" type="int" value="0"/>
+	<entry name="MountItem__media_scott_7ec6d38e_d36c_4ce4_af5f_ee06204a16a6" mtime="1417534443" type="int" value="0"/>
+	<entry name="MountItem__media_scott_A109_0BAB" mtime="1417534466" type="int" value="0"/>
+	<entry name="MountItem__media_scott_0f00ffb5_de59_4da2_9889_d72b4888f0c8" mtime="1417534372" type="int" value="0"/>
+	<entry name="MountItem__media_scott_afd95507_7f15_4ddd_aa59_6e2093e1f333" mtime="1417534388" type="int" value="0"/>
+	<entry name="MountItem__media_scott_ec40ab72_721f_45f1_903c_626a65a07f9f" mtime="1417534398" type="int" value="0"/>
+	<entry name="MountItem__media_scott_8fd2a593_c3b2_4461_aec5_37cfe4c3327e" mtime="1417534417" type="int" value="0"/>
+	<entry name="MountItem__media_scott_063d6dd4_9648_4759_b912_3f7084169dcd" mtime="1417534457" type="int" value="0"/>
+	<entry name="MountItem__media_scott_d1fc5f39_6fbd_417a_ac69_1c5f15b6f2dd" mtime="1417013666" type="int" value="0"/>
+	<entry name="MountItem__media_scott_b261826e_e525_46e3_8022_0b8677bae8ea" mtime="1417009944" type="int" value="0"/>
+	<entry name="MountItem__media_scott_d1dc75ee_d563_44df_9cc6_ce29a7a10fc5" mtime="1417009944" type="int" value="0"/>
+	<entry name="MountItem__media_scott_3c67b1d7_248d_48ec_bb67_3206a794e910" mtime="1417009944" type="int" value="0"/>
+	<entry name="MountItem__media_scott_CDROM" mtime="1417009944" type="int" value="0"/>
+	<entry name="DockyItem" mtime="1460231948" type="int" value="358"/>
+</gconf>

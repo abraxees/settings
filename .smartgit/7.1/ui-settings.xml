@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obj key="UiConfig" type="@UiSettings" id="_ID_1">
+	<collection key="bounds.keys" type="String"/>
+	<obj key="conflictSolverFrame" type="_NULL_" id=""/>
+	<obj key="indexEditorFrame" type="_NULL_" id=""/>
+	<prop key="gitAnnotateLayout" value="" type="_NULL_"/>
+	<prop key="hgAnnotateLayout" value="" type="_NULL_"/>
+	<prop key="gitProjectLayout.main" value="" type="_NULL_"/>
+	<prop key="gitProjectLayout.review" value="" type="_NULL_"/>
+	<prop key="gitProjectLayout.mainIsDefault" value="true" type="boolean"/>
+	<prop key="gitLogLayout.main" value="" type="_NULL_"/>
+	<prop key="gitLogLayout.review" value="" type="_NULL_"/>
+	<prop key="gitLogLayout.mainIsDefault" value="true" type="boolean"/>
+	<prop key="hgProjectLayout.main" value="" type="_NULL_"/>
+	<prop key="hgProjectLayout.review" value="" type="_NULL_"/>
+	<prop key="hgProjectLayout.mainIsDefault" value="true" type="boolean"/>
+	<prop key="hgLogLayout.main" value="" type="_NULL_"/>
+	<prop key="hgLogLayout.review" value="" type="_NULL_"/>
+	<prop key="hgLogLayout.mainIsDefault" value="true" type="boolean"/>
+	<collection key="columns.keys" type="String"/>
+	<obj key="gitViewFileFilter" type="_NULL_" id=""/>
+	<obj key="hgViewFileFilter" type="_NULL_" id=""/>
+</obj>

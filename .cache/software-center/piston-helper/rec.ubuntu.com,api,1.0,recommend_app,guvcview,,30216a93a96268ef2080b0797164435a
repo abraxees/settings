@@ -1,0 +1,242 @@
+status: 200
+content-length: 5381
+via: 1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: https://rec.ubuntu.com/api/1.0/recommend_app/guvcview/
+x-cache: HIT from sumac.canonical.com
+age: 57
+expires: Tue, 02 Dec 2014 17:54:16 GMT
+server: Apache/2.2.22 (Ubuntu)
+last-modified: Tue, 02 Dec 2014 17:49:16 GMT
+etag: "e87c9e6cc367e63617d461d7190c72ef"
+strict-transport-security: max-age=2592000
+cache-control: max-age=300
+date: Tue, 02 Dec 2014 17:49:16 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from sumac.canonical.com:3128
+
+{
+    "rid": "e6bf7eb3224fc17a3556871406629427", 
+    "data": [
+        {
+            "package_name": "mtpaint", 
+            "similarity": 0.3101
+        }, 
+        {
+            "package_name": "sylpheed", 
+            "similarity": 0.2894
+        }, 
+        {
+            "package_name": "ace-of-penguins", 
+            "similarity": 0.2613
+        }, 
+        {
+            "package_name": "lxtask", 
+            "similarity": 0.2505
+        }, 
+        {
+            "package_name": "xpad", 
+            "similarity": 0.2431
+        }, 
+        {
+            "package_name": "lxinput", 
+            "similarity": 0.2428
+        }, 
+        {
+            "package_name": "galculator", 
+            "similarity": 0.2188
+        }, 
+        {
+            "package_name": "hardinfo", 
+            "similarity": 0.2168
+        }, 
+        {
+            "package_name": "obconf", 
+            "similarity": 0.2055
+        }, 
+        {
+            "package_name": "openbox", 
+            "similarity": 0.204
+        }, 
+        {
+            "package_name": "gpicview", 
+            "similarity": 0.1897
+        }, 
+        {
+            "package_name": "gnome-mplayer", 
+            "similarity": 0.1896
+        }, 
+        {
+            "package_name": "osmo", 
+            "similarity": 0.1854
+        }, 
+        {
+            "package_name": "pcmanfm", 
+            "similarity": 0.1529
+        }, 
+        {
+            "package_name": "gnumeric", 
+            "similarity": 0.1452
+        }, 
+        {
+            "package_name": "xfburn", 
+            "similarity": 0.1392
+        }, 
+        {
+            "package_name": "gnome-time-admin", 
+            "similarity": 0.1349
+        }, 
+        {
+            "package_name": "leafpad", 
+            "similarity": 0.1339
+        }, 
+        {
+            "package_name": "blueman", 
+            "similarity": 0.128
+        }, 
+        {
+            "package_name": "abiword", 
+            "similarity": 0.1265
+        }, 
+        {
+            "package_name": "audacious", 
+            "similarity": 0.1253
+        }, 
+        {
+            "package_name": "gdebi", 
+            "similarity": 0.1124
+        }, 
+        {
+            "package_name": "v4l2ucp", 
+            "similarity": 0.1041
+        }, 
+        {
+            "package_name": "catfish", 
+            "similarity": 0.1012
+        }, 
+        {
+            "package_name": "pavucontrol", 
+            "similarity": 0.0853
+        }, 
+        {
+            "package_name": "pidgin", 
+            "similarity": 0.0828
+        }, 
+        {
+            "package_name": "libfm-gtk-bin", 
+            "similarity": 0.0821
+        }, 
+        {
+            "package_name": "nautilus-actions", 
+            "similarity": 0.0786
+        }, 
+        {
+            "package_name": "gthumb", 
+            "similarity": 0.0785
+        }, 
+        {
+            "package_name": "gnome-system-tools", 
+            "similarity": 0.0778
+        }, 
+        {
+            "package_name": "dolphin", 
+            "similarity": 0.0764
+        }, 
+        {
+            "package_name": "cheese", 
+            "similarity": 0.0762
+        }, 
+        {
+            "package_name": "libreoffice", 
+            "similarity": 0.0759
+        }, 
+        {
+            "package_name": "gtk-recordmydesktop", 
+            "similarity": 0.0746
+        }, 
+        {
+            "package_name": "avidemux", 
+            "similarity": 0.0715
+        }, 
+        {
+            "package_name": "systemsettings", 
+            "similarity": 0.0709
+        }, 
+        {
+            "package_name": "libreoffice-base", 
+            "similarity": 0.0702
+        }, 
+        {
+            "package_name": "okular", 
+            "similarity": 0.07
+        }, 
+        {
+            "package_name": "exo-utils", 
+            "similarity": 0.07
+        }, 
+        {
+            "package_name": "openshot", 
+            "similarity": 0.0698
+        }, 
+        {
+            "package_name": "gmusicbrowser", 
+            "similarity": 0.0697
+        }, 
+        {
+            "package_name": "gwenview", 
+            "similarity": 0.0684
+        }, 
+        {
+            "package_name": "ark", 
+            "similarity": 0.0677
+        }, 
+        {
+            "package_name": "parole", 
+            "similarity": 0.0673
+        }, 
+        {
+            "package_name": "dragonplayer", 
+            "similarity": 0.0672
+        }, 
+        {
+            "package_name": "ntfs-config", 
+            "similarity": 0.0672
+        }, 
+        {
+            "package_name": "kmix", 
+            "similarity": 0.0671
+        }, 
+        {
+            "package_name": "pidgin-otr", 
+            "similarity": 0.0669
+        }, 
+        {
+            "package_name": "ksnapshot", 
+            "similarity": 0.0668
+        }, 
+        {
+            "package_name": "thunar", 
+            "similarity": 0.0668
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "amora-applet"
+        }, 
+        {
+            "rating": 4.0, 
+            "package_name": "cameramonitor"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "pitivi"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "pykaraoke"
+        }, 
+        {
+            "rating": 3.0, 
+            "package_name": "wbar"
+        }
+    ], 
+    "app": "guvcview"
+}

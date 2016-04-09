@@ -1,0 +1,7 @@
+Looking at Module: libsoundmenu.so
+Signal: Entry Added
+Connected to Application Indicator Service.
+Request current apps
+Building new application entry: :1.31  with icon: nm-device-wired at position 1
+indicator-sound: new_volume_slider_widget
+IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed

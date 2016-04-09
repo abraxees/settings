@@ -1,0 +1,64 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>view-fullscreen</icon>
+	<name>Take Screenshot</name>
+	<unique-id>1417536472043206-7</unique-id>
+	<command>mate-screenshot -d 3</command>
+	<description>(Screenshot with 3 sec. delay</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1417534971623881-3</unique-id>
+	<command>exo-open --working-directory %f --launch mate-terminal</command>
+	<description>Example for a custom action</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>system-config-rootpassword</icon>
+	<name>Open as Root</name>
+	<unique-id>1417534899518946-1</unique-id>
+	<command>gksu thunar %f</command>
+	<description>Open Folder As Root User</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>stock_folder-copy</icon>
+	<name>Copy To...</name>
+	<unique-id>1417535352888815-2</unique-id>
+	<command>cp %F $(zenity --file-selection --directory)</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>stock_folder-move</icon>
+	<name>Move To....</name>
+	<unique-id>1417535363025049-3</unique-id>
+	<command>mv %f $(zenity --file-selection --directory)</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>

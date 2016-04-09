@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obj key="HostingProviders" type="@HostingProviderSettings" id="_ID_1">
+	<collection key="ids-github" type="String">
+		<prop key="" value="github.com" type="String"/>
+	</collection>
+	<obj key="github-github.com" type="@GitHubSettings" id="_ID_2">
+		<prop key="name" value="github.com" type="String"/>
+		<prop key="createUpstreamRemote" value="false" type="boolean"/>
+		<prop key="account" value="abraxees" type="String"/>
+		<prop key="password" value="3" type="int"/>
+		<prop key="rootUrl" value="" type="_NULL_"/>
+		<prop key="apiUrl" value="" type="_NULL_"/>
+		<prop key="sslClientCertificate" value="" type="_NULL_"/>
+		<prop key="sslClientCertificate.absolute" value="" type="_NULL_"/>
+		<prop key="sslClientCertificatePassword" value="" type="_NULL_"/>
+		<prop key="useSshUrl" value="false" type="boolean"/>
+		<prop key="useOAuthRepositoryAuthentication" value="true" type="boolean"/>
+	</obj>
+	<collection key="fingerprintMapping" type="String">
+		<prop key="" value="api.github.com" type="String"/>
+	</collection>
+	<prop key="fingerprintMapping.api.github.com" value="CF:05:98:89:CA:FF:8E:D8:5E:5C:E0:C2:E4:F7:E6:C3:C7:50:DD:5C" type="String"/>
+</obj>

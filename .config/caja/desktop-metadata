@@ -1,0 +1,109 @@
+[directory]
+caja-icon-view-keep-aligned=true
+caja-icon-view-layout-timestamp=1460231458
+caja-window-scroll-position=x-caja-desktop:///home
+
+[home]
+caja-icon-position=64,22
+icon-scale=1
+caja-icon-position-timestamp=1460231458
+
+[CDROM.volume]
+caja-icon-position=64,102
+icon-scale=1
+caja-icon-position-timestamp=1417011207
+
+[80 GB Volume.volume]
+caja-icon-position=64,622
+icon-scale=1
+caja-icon-position-timestamp=1417534466
+
+[50 GB Volume.volume]
+caja-icon-position=64,302
+icon-scale=1
+caja-icon-position-timestamp=1417006590
+
+[50 GB Volume.volume.2]
+caja-icon-position=64,402
+icon-scale=1
+caja-icon-position-timestamp=1417006609
+
+[60 GB Volume.volume]
+caja-icon-position=220,22
+icon-scale=1
+caja-icon-position-timestamp=1417013662
+
+[30 GB Volume.volume]
+caja-icon-position=64,122
+icon-scale=1
+caja-icon-position-timestamp=1417534417
+
+[30 GB Volume.volume.2]
+caja-icon-position=64,222
+icon-scale=1
+caja-icon-position-timestamp=1417534443
+
+[20 GB Volume.volume]
+caja-icon-position=64,322
+icon-scale=1
+caja-icon-position-timestamp=1417534388
+
+[20 GB Volume.volume.2]
+caja-icon-position=64,422
+icon-scale=1
+caja-icon-position-timestamp=1417534398
+
+[40 GB Volume.volume]
+caja-icon-position=64,522
+icon-scale=1
+caja-icon-position-timestamp=1417534372
+
+[30 GB Volume.volume.3]
+caja-icon-position=64,722
+icon-scale=1
+caja-icon-position-timestamp=1417534457
+
+[Mac OSX.volume]
+caja-icon-position=64,822
+icon-scale=1
+caja-icon-position-timestamp=1417534471
+
+[usbdrive on readyshare.volume]
+caja-icon-position=220,22
+icon-scale=1
+caja-icon-position-timestamp=1417534486
+
+[computer]
+caja-icon-position=64,122
+icon-scale=1
+caja-icon-position-timestamp=1460231458
+
+[trash]
+caja-icon-position=64,222
+icon-scale=1
+caja-icon-position-timestamp=1460231458
+
+[29 GB Volume.volume]
+caja-icon-position=64,322
+icon-scale=1
+caja-icon-position-timestamp=1460232008
+
+[DEUSEX.volume]
+caja-icon-position=64,422
+icon-scale=1
+caja-icon-position-timestamp=1460232008
+
+[LEGACY_BOOT.volume]
+caja-icon-position=64,522
+icon-scale=1
+caja-icon-position-timestamp=1460232008
+
+[MEDIAFAT.volume]
+caja-icon-position=64,622
+icon-scale=1
+caja-icon-position-timestamp=1460232008
+
+[MEDIA_NT.volume]
+caja-icon-position=64,722
+icon-scale=1
+caja-icon-position-timestamp=1460232008

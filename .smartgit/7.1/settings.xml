@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obj key="Preferences" type="@Preferences" id="_ID_1">
+	<obj key="actions" type="@ActionSettings" id="_ID_2">
+		<obj key="cleanup" type="_NULL_" id=""/>
+		<obj key="commit" type="_NULL_" id=""/>
+		<obj key="compare" type="_NULL_" id=""/>
+		<obj key="conflictSolver" type="_NULL_" id=""/>
+		<obj key="open" type="@OpenSettings" id="_ID_3">
+			<prop key="maximumNumberOfFilesToOpenAtOnce" value="3" type="int"/>
+		</obj>
+		<prop key="resetType" value="" type="_NULL_"/>
+		<obj key="stash" type="_NULL_" id=""/>
+		<prop key="showExecutedCommands" value="true" type="boolean"/>
+		<prop key="showExecutedCommandsDirectory" value="true" type="boolean"/>
+		<prop key="alwaysConfigureTracking" value="true" type="boolean"/>
+		<prop key="allowModificationOfPushedHistory" value="false" type="boolean"/>
+		<prop key="pushTags" value="false" type="boolean"/>
+		<prop key="syncPushBeforePull" value="true" type="boolean"/>
+		<prop key="backgroundRefreshing" value="false" type="boolean"/>
+		<prop key="backgroundScan" value="true" type="boolean"/>
+		<prop key="backgroundPoll" value="true" type="boolean"/>
+		<prop key="backgroundFetchClosed" value="false" type="boolean"/>
+		<prop key="backgroundFetchOpen" value="false" type="boolean"/>
+	</obj>
+	<obj key="logSettings" type="_NULL_" id=""/>
+	<obj key="comparePreviewSettings" type="_NULL_" id=""/>
+	<obj key="dateFormat" type="_NULL_" id=""/>
+	<obj key="defaultViewSettings" type="_NULL_" id=""/>
+	<obj key="git" type="@GitSettings" id="_ID_4">
+		<prop key="gitExe" value="/usr/bin/git" type="String"/>
+		<prop key="gitExe.absolute" value="/usr/bin/git" type="String"/>
+		<prop key="useSystemGitFlow" value="false" type="boolean"/>
+	</obj>
+	<obj key="hg" type="@HgSettings" id="_ID_5">
+		<prop key="hgExe" value="" type="_NULL_"/>
+		<prop key="hgExe.absolute" value="" type="_NULL_"/>
+	</obj>
+	<obj key="ssh" type="@SshSettings" id="_ID_6">
+		<prop key="useOwnSshClient" value="false" type="boolean"/>
+	</obj>
+	<obj key="globalTextComponentSettings" type="_NULL_" id=""/>
+	<obj key="listx" type="@L" id="_ID_7">
+		<prop key="eUT" value="-9223372036854775808" type="long"/>
+		<prop key="nRT" value="-9223372036854775808" type="long"/>
+		<prop key="lLCT" value="0" type="long"/>
+		<prop key="eV" value="7.1" type="String"/>
+		<prop key="uid" value="" type="_NULL_"/>
+	</obj>
+	<obj key="pathSettings" type="_NULL_" id=""/>
+	<obj key="project" type="_NULL_" id=""/>
+	<obj key="uiSettings" type="_NULL_" id=""/>
+	<obj key="vcsRecords" type="_NULL_" id=""/>
+	<obj key="updateCheck" type="@UpdateAutoCheckSettings" id="_ID_8">
+		<prop key="mode" value="download" type="String"/>
+		<collection key="knownInfos" type="String"/>
+		<collection key="knownSurveys" type="String"/>
+		<prop key="prevCheckTime" value="" type="_NULL_"/>
+		<prop key="majorDelayed" value="" type="_NULL_"/>
+		<prop key="majorDelayedVersion" value="" type="_NULL_"/>
+		<prop key="majorDelayedPeriod" value="0" type="int"/>
+		<prop key="checkedBuild" value="" type="_NULL_"/>
+		<prop key="upgradeInstallation" value="false" type="boolean"/>
+	</obj>
+	<obj key="proxy" type="@HttpProxySettings" id="_ID_9">
+		<prop key="autoDetect" value="true" type="boolean"/>
+		<prop key="proxyHost" value="" type="_NULL_"/>
+		<prop key="proxyPort" value="3128" type="int"/>
+		<prop key="proxyUser" value="" type="_NULL_"/>
+	</obj>
+	<prop key="proxyPassword" value="0" type="int"/>
+	<prop key="warnForMissingMasterPassword" value="false" type="boolean"/>
+	<prop key="askForMasterPasswordOnStartup" value="false" type="boolean"/>
+	<prop key="sendStacktraces2" value="true" type="boolean"/>
+	<prop key="sendStacktracesBeta" value="false" type="boolean"/>
+	<prop key="machineId" value="" type="_NULL_"/>
+	<prop key="lastUsedVersion" value="7.1" type="String"/>
+	<collection key="tempDirs" type="String">
+		<prop key="" value="/tmp/smartgit4341466774036174710tmp" type="String"/>
+	</collection>
+</obj>

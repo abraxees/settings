@@ -1,0 +1,167 @@
+status: 200
+content-length: 3869
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: http://reviews.ubuntu.com/reviews/api/1.0/review-stats/any/any/updates-last-1-days/
+x-cache: HIT from papeda.canonical.com
+age: 680
+expires: Tue, 02 Dec 2014 19:01:54 GMT
+vary: Accept,Accept-Encoding
+server: Apache/2.2.22 (Ubuntu)
+last-modified: Tue, 02 Dec 2014 15:01:54 GMT
+connection: close
+-content-encoding: gzip
+cache-control: max-age=14400
+date: Tue, 02 Dec 2014 15:01:54 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from papeda.canonical.com:3128
+-varied-accept-encoding: gzip, deflate
+
+[
+    {
+        "ratings_total": 6, 
+        "ratings_average": "3.83", 
+        "app_name": "", 
+        "package_name": "fglrx-updates", 
+        "histogram": "[0, 1, 1, 2, 2]"
+    }, 
+    {
+        "ratings_total": 264, 
+        "ratings_average": "4.37", 
+        "app_name": "", 
+        "package_name": "docky", 
+        "histogram": "[11, 10, 24, 44, 175]"
+    }, 
+    {
+        "ratings_total": 16, 
+        "ratings_average": "4.56", 
+        "app_name": "", 
+        "package_name": "blockout2", 
+        "histogram": "[0, 0, 1, 5, 10]"
+    }, 
+    {
+        "ratings_total": 428, 
+        "ratings_average": "3.74", 
+        "app_name": "", 
+        "package_name": "openshot", 
+        "histogram": "[53, 50, 49, 79, 197]"
+    }, 
+    {
+        "ratings_total": 2, 
+        "ratings_average": "5.00", 
+        "app_name": "", 
+        "package_name": "power-off", 
+        "histogram": "[0, 0, 0, 0, 2]"
+    }, 
+    {
+        "ratings_total": 338, 
+        "ratings_average": "4.26", 
+        "app_name": "", 
+        "package_name": "libreoffice-writer", 
+        "histogram": "[14, 20, 28, 77, 199]"
+    }, 
+    {
+        "ratings_total": 24, 
+        "ratings_average": "3.83", 
+        "app_name": "", 
+        "package_name": "ardentryst", 
+        "histogram": "[1, 1, 6, 9, 7]"
+    }, 
+    {
+        "ratings_total": 47, 
+        "ratings_average": "3.85", 
+        "app_name": "", 
+        "package_name": "planner", 
+        "histogram": "[4, 4, 6, 14, 19]"
+    }, 
+    {
+        "ratings_total": 58, 
+        "ratings_average": "4.74", 
+        "app_name": "", 
+        "package_name": "hugin", 
+        "histogram": "[2, 1, 1, 2, 52]"
+    }, 
+    {
+        "ratings_total": 32, 
+        "ratings_average": "3.12", 
+        "app_name": "", 
+        "package_name": "2xclient", 
+        "histogram": "[14, 0, 1, 2, 15]"
+    }, 
+    {
+        "ratings_total": 5, 
+        "ratings_average": "2.00", 
+        "app_name": "", 
+        "package_name": "cenon.app", 
+        "histogram": "[3, 1, 0, 0, 1]"
+    }, 
+    {
+        "ratings_total": 31, 
+        "ratings_average": "4.26", 
+        "app_name": "", 
+        "package_name": "steam", 
+        "histogram": "[4, 0, 1, 5, 21]"
+    }, 
+    {
+        "ratings_total": 21, 
+        "ratings_average": "2.14", 
+        "app_name": "", 
+        "package_name": "flegita", 
+        "histogram": "[12, 3, 1, 1, 4]"
+    }, 
+    {
+        "ratings_total": 1902, 
+        "ratings_average": "4.76", 
+        "app_name": "", 
+        "package_name": "vlc", 
+        "histogram": "[38, 18, 45, 152, 1649]"
+    }, 
+    {
+        "ratings_total": 829, 
+        "ratings_average": "4.69", 
+        "app_name": "", 
+        "package_name": "clementine", 
+        "histogram": "[18, 11, 31, 93, 676]"
+    }, 
+    {
+        "ratings_total": 17, 
+        "ratings_average": "4.71", 
+        "app_name": "", 
+        "package_name": "tellico", 
+        "histogram": "[0, 0, 1, 3, 13]"
+    }, 
+    {
+        "ratings_total": 39, 
+        "ratings_average": "3.85", 
+        "app_name": "", 
+        "package_name": "qshutdown", 
+        "histogram": "[2, 3, 7, 14, 13]"
+    }, 
+    {
+        "ratings_total": 518, 
+        "ratings_average": "4.67", 
+        "app_name": "", 
+        "package_name": "audacity", 
+        "histogram": "[17, 6, 12, 63, 420]"
+    }, 
+    {
+        "ratings_total": 273, 
+        "ratings_average": "4.67", 
+        "app_name": "", 
+        "package_name": "blender", 
+        "histogram": "[9, 4, 9, 24, 227]"
+    }, 
+    {
+        "ratings_total": 98, 
+        "ratings_average": "4.19", 
+        "app_name": "", 
+        "package_name": "pcsxr", 
+        "histogram": "[7, 4, 8, 23, 56]"
+    }, 
+    {
+        "ratings_total": 77, 
+        "ratings_average": "2.88", 
+        "app_name": "", 
+        "package_name": "fusion-icon", 
+        "histogram": "[31, 2, 10, 13, 21]"
+    }
+]

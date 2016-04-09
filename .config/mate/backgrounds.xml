@@ -1,0 +1,1021 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>woody-640x480.png</name>
+    <filename>/usr/share/backgrounds/pearl/woody-640x480.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>j_baer_5976503592.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/j_baer_5976503592.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Cold (LightDM)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Cold-lightdm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Entrance.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Entrance.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>wallpaper_1920x1200.png</name>
+    <filename>/usr/share/backgrounds/pearl/wallpaper_1920x1200.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Dune</name>
+    <filename>/usr/share/backgrounds/mate/nature/Dune.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Marco Cogoni, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Rain Drops</name>
+    <filename>/usr/share/backgrounds/mate/nature/RainDrops.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>blackcombwhistler07</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>spiderman-wide.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/spiderman-wide.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>No Desktop Background</name>
+    <filename>(none)</filename>
+    <options>wallpaper</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Radioactive</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Radioactive.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>smart_cat.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/smart_cat.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Stripes</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Stripes.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#58589191bcbc</pcolor>
+    <scolor>#4444a5a52a2a</scolor>
+    <artist>Jakub Steiner</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>pearl_default_background.png</name>
+    <filename>/usr/share/backgrounds/pearl/pearl_default_background.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Arc</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>j_baer_modified_5561371578.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/j_baer_modified_5561371578.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Mac_OS_X_Software56.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Mac_OS_X_Software56.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>1680x1050_winter_lscape.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/1680x1050_winter_lscape.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>mountain_in_tibet.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/mountain_in_tibet.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>StarOS-background-1920x1200.png</name>
+    <filename>/usr/share/backgrounds/pearl/StarOS-background-1920x1200.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>dexxus_5626316429.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/dexxus_5626316429.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Moon-moon-22762198-1024-768.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Moon-moon-22762198-1024-768.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>pearl_default_background.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/pearl_default_background.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>mattbuck007_8263284303.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/mattbuck007_8263284303.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Garden</name>
+    <filename>/usr/share/backgrounds/mate/nature/Garden.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Thames.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Thames.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Gray</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Gray.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Gerard Aalders</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Warm (LightDM)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Warm-lightdm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>blue-pearl-bg-640x480.png</name>
+    <filename>/usr/share/backgrounds/pearl/blue-pearl-bg-640x480.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>wallpaper_2560x1600.png</name>
+    <filename>/usr/share/backgrounds/pearl/wallpaper_2560x1600.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Radioactive (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Radioactive-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>scotl_loch_mullardoch.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/scotl_loch_mullardoch.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>luna_background.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/luna_background.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark (LightDM)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Dark-lightdm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>blue-pearl-bg-1920x1200.png</name>
+    <filename>/usr/share/backgrounds/pearl/blue-pearl-bg-1920x1200.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Traditional</name>
+    <filename>/usr/share/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>l0r4n0n</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Lady Bird</name>
+    <filename>/usr/share/backgrounds/mate/nature/LadyBird.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fresh Flower</name>
+    <filename>/usr/share/backgrounds/mate/nature/FreshFlower.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Jens Ansorg</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>wallpaper tiger_2.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/wallpaper tiger_2.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>evening_bliss.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/evening_bliss.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Circle of Mates (Dark)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/ubuntu-mate-desktop-circle_of_mates_dark.png</filename>
+    <options>stretched</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Ivan Peji&#x107;</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>blumblaum_3929361972.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/blumblaum_3929361972.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>wallpaper_640x480.png</name>
+    <filename>/usr/share/backgrounds/pearl/wallpaper_640x480.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>beach_shore_sunset.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/beach_shore_sunset.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>bridge_over_falls.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/bridge_over_falls.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>wallpaper_1280x1024.png</name>
+    <filename>/usr/share/backgrounds/pearl/wallpaper_1280x1024.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Yellow Flower</name>
+    <filename>/usr/share/backgrounds/mate/nature/YellowFlower.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Storm</name>
+    <filename>/usr/share/backgrounds/mate/nature/Storm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Sergey Nazarov</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Winodws-7.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Winodws-7.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>desert_oasis_water_landscape_cgi_3d_gallery.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/desert_oasis_water_landscape_cgi_3d_gallery.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>space-gradient.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/space-gradient.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>River-Dock.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/River-Dock.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>800x600_winter_lscape.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/800x600_winter_lscape.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>moon_mountains_clouds.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/moon_mountains_clouds.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="true">
+    <name>arnold_schwarzenegger_terminator_genisys-wide.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/arnold_schwarzenegger_terminator_genisys-wide.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>j_baer_6085443988.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/j_baer_6085443988.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>blue-pearl-bg-2560x1600.png</name>
+    <filename>/usr/share/backgrounds/pearl/blue-pearl-bg-2560x1600.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>glistening_sea.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/glistening_sea.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>1024x768_lakes_out_side_chester_uk.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/1024x768_lakes_out_side_chester_uk.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>back1.png</name>
+    <filename>/usr/share/backgrounds/pearl/back1.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>hd-space-wallpapers-fantasy-images-hd-space-wallpapers.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/hd-space-wallpapers-fantasy-images-hd-space-wallpapers.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>2.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/2.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Spring</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Spring.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cosmos</name>
+    <filename>/usr/share/backgrounds/cosmos/background-1.xml</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Wood</name>
+    <filename>/usr/share/backgrounds/mate/nature/Wood.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Jean-Fran&#xE7;ois Fortin Tam</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Float into MATE</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Float-into-MATE.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Rowen Stipe</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>canyon_oasis_havasu_falls_arizona.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/canyon_oasis_havasu_falls_arizona.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Meadow</name>
+    <filename>/usr/share/backgrounds/mate/nature/GreenMeadow.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Timothy Schellhase, Lapo Calamandrei</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>translucent-pearls-24653-2560x1600.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/translucent-pearls-24653-2560x1600.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>default_bg.png</name>
+    <filename>/usr/share/backgrounds/pearl/default_bg.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>lake_beauty_4.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/lake_beauty_4.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Landscape.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Landscape.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Warm</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Warm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>GRUB-640x480-Windows_7_background.png</name>
+    <filename>/usr/share/backgrounds/pearl/GRUB-640x480-Windows_7_background.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Dark.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Waves</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Waves.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>1.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/1.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Two Wings</name>
+    <filename>/usr/share/backgrounds/mate/nature/TwoWings.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Charles Barbin, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>default_bg.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/default_bg.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cubes.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Cubes.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Sea-House.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Sea-House.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>pearl_background_640x480.png</name>
+    <filename>/usr/share/backgrounds/pearl/pearl_background_640x480.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>wood.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/wood.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>sayantan_7864647044.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/sayantan_7864647044.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Vista-Wallpapers-Free-Download-1.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Vista-Wallpapers-Free-Download-1.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>lxde-blue.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/lxde-blue.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>disney_magical_kingdom.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/disney_magical_kingdom.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Gulp</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Gulp.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#62627f7f5a5a</pcolor>
+    <scolor>#272758587e7e</scolor>
+    <artist>Daniel Galleguillos, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>mac_osx_lion_space_wallpaper.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/mac_osx_lion_space_wallpaper.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>1024x768_shoal_bay_beach_anguilla.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/1024x768_shoal_bay_beach_anguilla.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>dexxus_5652914929.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/dexxus_5652914929.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>blue-gradients.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/blue-gradients.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Dark-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Gaming.jpeg</name>
+    <filename>/usr/share/backgrounds/pearl/Gaming.jpeg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>born_to_fire.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/born_to_fire.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>MyMac.png</name>
+    <filename>/usr/share/backgrounds/pearl/MyMac.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>fantasy_world_earth_art_space_image_download.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/fantasy_world_earth_art_space_image_download.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Blinds</name>
+    <filename>/usr/share/backgrounds/mate/nature/Blinds.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Lennart Poettering, Andrea Cimitan</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Silk</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Silk.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>pearl_background_1024x768.png</name>
+    <filename>/usr/share/backgrounds/pearl/pearl_background_1024x768.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>3.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/3.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Car.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Car.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Winter.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/Winter.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Warm (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Warm-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Cold (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Cold-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Flow</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Flow.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Daniel Galleguillos, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Radioactive (LightDM)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Radioactive-lightdm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>linux_widescreen-wide.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/linux_widescreen-wide.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>soft_stones.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/soft_stones.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Circle of Mates (Light)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/ubuntu-mate-desktop-circle_of_mates_light.png</filename>
+    <options>stretched</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Ivan Peji&#x107;</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Cold</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-utopic/Ubuntu-Mate-Cold.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>dexxus_4714207610.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/dexxus_4714207610.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>dexxus_5653503758.jpg</name>
+    <filename>/usr/share/backgrounds/pearl/dexxus_5653503758.jpg</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="true">
+    <name>Aqua</name>
+    <filename>/usr/share/backgrounds/mate/nature/Aqua.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#272758587e7e</pcolor>
+    <scolor>#62627f7f5a5a</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+</wallpapers>

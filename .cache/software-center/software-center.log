@@ -1,0 +1,177 @@
+2014-11-26 06:58:54,449 - softwarecenter.backend.zeitgeist_logger - WARNING - Support for Zeitgeist disabled
+2014-11-26 06:58:54,839 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2014-11-26 06:58:55,153 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2014-11-26 06:59:00,290 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Geoclue.Master was not provided by any .service files'
+2014-11-26 06:59:00,748 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2014-11-26 06:59:00,777 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2014-11-26 06:59:01,238 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2014-11-26 06:59:17,492 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2014-11-26 06:59:17,494 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+2014-11-26 06:59:17,565 - softwarecenter.ui.gtk3.views.lobbyview - WARNING - skipping exhibit for: 'u'leadwerks\r\nleadwerks-indie'' not available
+2014-11-26 06:59:27,583 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterRecommenderAPI', 'recommend_app', '{"pkgname": "pearl-plymouth"}']'
+2014-11-26 06:59:27,585 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:404: {'status': '404', 'content-length': '63', 'via': '1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'MISS from sumac.canonical.com', 'x-cache-lookup': 'MISS from sumac.canonical.com:3128', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache/2.2.22 (Ubuntu)', 'etag': '"ecd2540170414fb9a2d38a69e515967f"', 'cache-control': 'max-age=300', 'date': 'Wed, 26 Nov 2014 12:59:27 GMT', 'content-type': 'text/html; charset=utf-8'}
+'
+2014-11-26 06:59:27,586 - softwarecenter.db.categories - WARNING - Error while accessing the recommender service: WARNING:__main__:404: {'status': '404', 'content-length': '63', 'via': '1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'MISS from sumac.canonical.com', 'x-cache-lookup': 'MISS from sumac.canonical.com:3128', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache/2.2.22 (Ubuntu)', 'etag': '"ecd2540170414fb9a2d38a69e515967f"', 'cache-control': 'max-age=300', 'date': 'Wed, 26 Nov 2014 12:59:27 GMT', 'content-type': 'text/html; charset=utf-8'}
+
+2014-11-26 06:59:27,588 - softwarecenter.ui.gtk3.widgets.recommendations - WARNING - Error while accessing the recommender agent: WARNING:__main__:404: {'status': '404', 'content-length': '63', 'via': '1.1 sumac.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'MISS from sumac.canonical.com', 'x-cache-lookup': 'MISS from sumac.canonical.com:3128', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache/2.2.22 (Ubuntu)', 'etag': '"ecd2540170414fb9a2d38a69e515967f"', 'cache-control': 'max-age=300', 'date': 'Wed, 26 Nov 2014 12:59:27 GMT', 'content-type': 'text/html; charset=utf-8'}
+
+2014-11-26 06:59:29,744 - softwarecenter.db.pkginfo_impl.aptcache - ERROR - simulate failed
+None
+2014-11-26 06:59:30,196 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Geoclue.Master was not provided by any .service files'
+2014-11-26 06:59:38,662 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2014-11-26 06:59:38,671 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2014-11-26 06:59:38,698 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2014-11-26 07:00:21,264 - softwarecenter.backend - WARNING - _on_trans_error: 'TransactionFailed(u'error-no-cache:  E:Problem renaming the file /var/cache/apt/pkgcache.bin.l3ey3D to /var/cache/apt/pkgcache.bin - rename (2: No such file or directory), W:You may want to run apt-get update to correct these problems',)' '<AptTransaction object at 0x7f5a2807bc80 (aptdaemon+client+AptTransaction at 0x30d8140)>' 'pearl-plymouth'
+2014-11-26 07:00:22,915 - softwarecenter.backend - ERROR - error in _on_trans_finished 'Error: Failed to load the package list
+This is a serious problem. Try again later. If this problem appears again, please report an error to the developers.
+
+E:Problem renaming the file /var/cache/apt/pkgcache.bin.l3ey3D to /var/cache/apt/pkgcache.bin - rename (2: No such file or directory), W:You may want to run apt-get update to correct these problems'
+2014-11-26 07:00:32,179 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2014-11-26 07:38:11,420 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2014-11-26 07:38:17,664 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Geoclue.Master was not provided by any .service files'
+2014-11-26 07:38:19,219 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2014-11-26 07:38:19,256 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2014-11-26 07:38:19,759 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2014-11-26 07:38:21,966 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2014-11-26 07:38:21,968 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+2014-11-26 07:38:35,993 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Geoclue.Master was not provided by any .service files'
+2014-11-26 07:38:36,350 - softwarecenter.db.application - WARNING - no version information found for ''
+2014-11-26 07:38:36,471 - softwarecenter.db.application - WARNING - no version information found for ''
+2014-11-26 07:38:36,472 - softwarecenter.db.application - WARNING - no version information found for ''
+2014-11-26 07:38:36,477 - softwarecenter.db.application - WARNING - no version information found for ''
+2014-11-26 07:38:36,519 - softwarecenter.db.application - WARNING - no version information found for ''
+2014-11-26 07:38:36,823 - softwarecenter.ui.gtk3.views.lobbyview - WARNING - skipping exhibit for: 'u'leadwerks\r\nleadwerks-indie'' not available
+2014-11-26 07:38:39,637 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_get_reviews_helper.py', '--language', 'en', '--origin', 'any', '--distroseries', 'any', '--pkgname', '', '--page', '1', '--sort', 'helpful']'
+2014-11-26 07:38:39,639 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'ERROR:__main__:get_reviews
+Traceback (most recent call last):
+  File "/usr/share/software-center/piston_get_reviews_helper.py", line 68, in <module>
+    piston_reviews = try_get_reviews(kwargs)
+  File "/usr/share/software-center/piston_get_reviews_helper.py", line 23, in try_get_reviews
+    piston_reviews = rnrclient.get_reviews(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 49, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 49, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 49, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 49, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 45, in wrapper
+    (varname, pattern))
+ValidationException: Argument 'packagename' must match pattern '[a-z0-9.+-]+$'
+'
+2014-11-26 07:38:39,640 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterRecommenderAPI', 'recommend_app', '{"pkgname": ""}']'
+2014-11-26 07:38:39,641 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'ERROR:__main__:urclient_apps
+Traceback (most recent call last):
+  File "/usr/share/software-center/piston_generic_helper.py", line 147, in <module>
+    piston_reply = f(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 45, in wrapper
+    (varname, pattern))
+ValidationException: Argument 'pkgname' must match pattern '[^/]+$'
+'
+2014-11-26 07:38:39,641 - softwarecenter.db.categories - WARNING - Error while accessing the recommender service: ERROR:__main__:urclient_apps
+Traceback (most recent call last):
+  File "/usr/share/software-center/piston_generic_helper.py", line 147, in <module>
+    piston_reply = f(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 45, in wrapper
+    (varname, pattern))
+ValidationException: Argument 'pkgname' must match pattern '[^/]+$'
+
+2014-11-26 07:38:39,642 - softwarecenter.ui.gtk3.widgets.recommendations - WARNING - Error while accessing the recommender agent: ERROR:__main__:urclient_apps
+Traceback (most recent call last):
+  File "/usr/share/software-center/piston_generic_helper.py", line 147, in <module>
+    piston_reply = f(**kwargs)
+  File "/usr/lib/python2.7/dist-packages/piston_mini_client/validators.py", line 45, in wrapper
+    (varname, pattern))
+ValidationException: Argument 'pkgname' must match pattern '[^/]+$'
+
+2014-12-02 09:13:09,445 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2014-12-02 09:13:09,633 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2014-12-02 09:13:12,709 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Geoclue.Master was not provided by any .service files'
+2014-12-02 09:13:13,762 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2014-12-02 09:13:13,778 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2014-12-02 09:13:14,009 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2014-12-02 09:13:15,656 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2014-12-02 09:13:15,657 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+2014-12-02 09:13:20,594 - softwarecenter.ui.gtk3.views.lobbyview - WARNING - skipping exhibit for: 'u'leadwerks\r\nleadwerks-indie'' not available
+2014-12-02 09:13:26,486 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Geoclue.Master was not provided by any .service files'
+2014-12-02 09:13:32,319 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2014-12-02 09:13:32,324 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2014-12-02 09:13:32,347 - softwarecenter.db.database - ERROR - failed to add apt-xapian-index
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/db/database.py", line 194, in _get_new_xapiandb
+    softwarecenter.paths.APT_XAPIAN_INDEX_DB_PATH)
+  File "/usr/lib/python2.7/dist-packages/xapian/__init__.py", line 3667, in __init__
+    _xapian.Database_swiginit(self,_xapian.new_Database(*args))
+DatabaseOpeningError: Couldn't stat '/var/lib/apt-xapian-index/index' (No such file or directory)
+2014-12-02 11:48:23,973 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'None'
+2014-12-02 11:48:27,604 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Geoclue.Master was not provided by any .service files'
+2014-12-02 11:48:28,569 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2014-12-02 11:48:28,585 - softwarecenter.plugin - INFO - activating plugin '<module 'webapps_activation' from '/usr/share/software-center/softwarecenter/plugins/webapps_activation.pyc'>'
+2014-12-02 11:48:28,837 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2014-12-02 11:48:29,915 - softwarecenter.backend.reviews - WARNING - error creating bsddb: '(22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')' (corrupted?)
+2014-12-02 11:48:29,924 - softwarecenter.backend.reviews - ERROR - trying to repair DB failed
+Traceback (most recent call last):
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 358, in _save_review_stats_cache_blocking
+    self._dump_bsddbm_for_unity(outfile, outdir)
+  File "/usr/share/software-center/softwarecenter/backend/reviews/__init__.py", line 377, in _dump_bsddbm_for_unity
+    0600)
+DBInvalidArgError: (22, 'Invalid argument -- BDB0054 illegal flag combination specified to DB_ENV->open')
+2014-12-02 11:48:36,281 - softwarecenter.ui.gtk3.views.lobbyview - WARNING - skipping exhibit for: 'u'leadwerks\r\nleadwerks-indie'' not available
+2014-12-02 11:48:43,242 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Geoclue.Master was not provided by any .service files'
+2014-12-02 11:48:50,144 - softwarecenter.db.utils - INFO - software-center-agent finished with status 0
+2014-12-02 11:50:03,867 - softwarecenter.db.pkginfo_impl.aptcache - ERROR - simulate failed
+None
+2014-12-02 11:50:09,814 - softwarecenter.ui.gtk3.gmenusearch - WARNING - could not load GMenu path: Failed to look up menu_file for "applications.menu"
+
+2014-12-02 11:50:34,052 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2014-12-02 11:50:36,179 - softwarecenter.ui.gtk3.gmenusearch - WARNING - could not load GMenu path: Failed to look up menu_file for "applications.menu"
+

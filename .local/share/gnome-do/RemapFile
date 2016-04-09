@@ -1,0 +1,10 @@
+# Docky Remap File
+# Add key value pairs following dictionary syntax
+# key, value
+# key, altKey, value
+# Lines starting with # are comments, otherwise # is a valid character
+banshee.exe, banshee
+banshee-1, banshee
+azureus, vuze
+thunderbird-3.0, thunderbird
+thunderbird-bin, thunderbird

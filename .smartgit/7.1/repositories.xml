@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obj key="Repositories" type="@Repositories" id="_ID_1">
+	<collection key="repositories" type="Object">
+		<obj key="" type="@Repository" id="_ID_2">
+			<prop key="name" value="timurk" type="String"/>
+			<prop key="favorite" value="false" type="boolean"/>
+			<prop key="git" value="true" type="boolean"/>
+			<prop key="path" value="~" type="String"/>
+			<prop key="path.absolute" value="/home/timurk" type="String"/>
+		</obj>
+	</collection>
+	<collection key="groups" type="Object"/>
+	<collection key="mapping" type="Object"/>
+	<collection key="reopenAtStartup" type="Reference"/>
+	<collection key="recentlyUsed" type="Reference">
+		<ref key="" type="@Repository" id="_REF_2"/>
+	</collection>
+</obj>

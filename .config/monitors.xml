@@ -1,0 +1,49 @@
+<monitors version="1">
+  <configuration>
+      <clone>no</clone>
+      <output name="VGA-0">
+          <vendor>GWY</vendor>
+          <product>0x077b</product>
+          <serial>0x00000000</serial>
+      </output>
+      <output name="LVDS-0">
+          <vendor>CMO</vendor>
+          <product>0x1018</product>
+          <serial>0x00000000</serial>
+          <width>1024</width>
+          <height>600</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="DVI-0">
+      </output>
+      <output name="DisplayPort-0">
+      </output>
+  </configuration>
+  <configuration>
+      <clone>no</clone>
+      <output name="DVI-I-1">
+      </output>
+      <output name="VGA-1">
+          <vendor>SAM</vendor>
+          <product>0x00a6</product>
+          <serial>0x4e423139</serial>
+          <width>1280</width>
+          <height>1024</height>
+          <rate>75</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>no</primary>
+      </output>
+      <output name="HDMI-1">
+      </output>
+  </configuration>
+</monitors>

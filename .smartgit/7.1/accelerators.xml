@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obj key="Accelerators" type="@AllAccelerators" id="_ID_1">
+	<obj key="compareAccelerators" type="_NULL_" id=""/>
+	<obj key="conflictSolverAccelerators" type="_NULL_" id=""/>
+	<obj key="gitAnnotate" type="_NULL_" id=""/>
+	<obj key="indexEditorAccelerators" type="_NULL_" id=""/>
+	<obj key="logAccelerators" type="_NULL_" id=""/>
+	<obj key="project" type="_NULL_" id=""/>
+	<obj key="hgAnnotate" type="_NULL_" id=""/>
+	<obj key="hgLog" type="_NULL_" id=""/>
+	<prop key="completionKeyStroke" value="CTRL+SPACE" type="String"/>
+</obj>

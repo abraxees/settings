@@ -1,0 +1,11 @@
+location:/usr/share/applications/firefox.desktop
+location:/usr/share/applications/chromium-browser.desktop
+location:/usr/share/applications/pidgin.desktop
+separator
+location:/usr/share/applications/mate-system-monitor.desktop
+location:/usr/share/applications/libreoffice-draw.desktop
+location:/usr/share/applications/mate-terminal.desktop
+location:/usr/share/applications/pluma.desktop
+separator
+location:/usr/share/applications/rhythmbox.desktop
+location:/usr/share/applications/cheese.desktop
