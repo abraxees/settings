@@ -10123,3 +10123,263 @@ smartgit.fe: Not all refs have been pushed.
 1691166 Thread[WorkerThread-1,2,main] Stage [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp]
 1691173 Thread[WorkerThread-1,2,main]   actually staging [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp]
 1691174 Thread[WorkerThread-1,2,main] Executing #37 [/home/timurk] /usr/bin/git add --force -- .smartgit/7.1/log.txt .smartgit/7.1/~current-log.1460232465400.tmp
+1691269 Thread[WorkerThread-1,2,main] Collecting changes, pending trigger file count is 0 (latestSeq=33600)
+1691295 Thread[WorkerThread-1,2,main] Collecting changes finished (latestSeq=33624)
+1691295 Thread[WorkerThread-1,2,main] Firing 8 changes for [/home/timurk] to 1 listeners (maxSeq=33623;latestSeq=33624)
+1691295 Thread[WorkerThread-1,2,main] Post-command refresh for [/.git/index.lock<infinity>, /<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.git/objects/a8/b1ac4db0c6e3ae7537c99bb60fa5b60ac61d23<empty>, /.git/index<empty>, /.git/objects/72/tmp_obj_d6UUUw<infinity>, /.smartgit/7.1/log.txt<empty>, /.git/objects/72/2af3ef788a76173404fa75ddf8f614bc7f60df<empty>, /.git/objects/a8/tmp_obj_Bcmour<infinity>] for /home/timurk
+1691311 Thread[WorkerThread-1,2,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1<files>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1691416 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@592D10F2
+1693097 Thread[main,5,main] Performing 'commit, Commit..., Commit local changes.'
+1693150 Thread[main,5,main] Showing dialog 23 (@36587D59) '@6B8D79EE - Commit' (owner: @79DF93F2)
+1699649 Thread[main,5,main] Performing 'Cancel' button in window @36587D59 owner @79DF93F2
+1699649 Thread[main,5,main] Closing dialog with option Cancel - -1 - 23 (@36587D59) '@6B8D79EE - Commit' (owner: @79DF93F2)
+1699650 Thread[main,5,main] Disposing dialog 23 (@36587D59) '@6B8D79EE - Commit' (owner: @79DF93F2)
+1699665 Thread[main,5,main] Starting background refreshing.
+1699667 Thread[main,5,main] Showed dialog 23 (@36587D59) '@6B8D79EE - Commit' (owner: @79DF93F2) (Cancel - -1)
+1700665 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33642)
+1700706 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33646)
+1700706 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33645;latestSeq=33646)
+1700706 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Running background refresh: []
+1700707 Thread[QThreadPoolThread-0 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1700825 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@4E41D2B3
+1702272 Thread[main,5,main] Performing 'fetch, Pull..., Pull commits from a remote repository.'
+1702288 Thread[main,5,main] Showing dialog 24 (@51E6CDA2) '@7C670B0 - Pull' (owner: @79DF93F2)
+1704649 Thread[main,5,main] Performing 'Fetch Only' button in window @51E6CDA2 owner @79DF93F2
+1704649 Thread[main,5,main] Closing dialog with option OK - 2 - 24 (@51E6CDA2) '@7C670B0 - Pull' (owner: @79DF93F2)
+1704650 Thread[main,5,main] Disposing dialog 24 (@51E6CDA2) '@7C670B0 - Pull' (owner: @79DF93F2)
+1704665 Thread[main,5,main] Showed dialog 24 (@51E6CDA2) '@7C670B0 - Pull' (owner: @79DF93F2) (OK - 2)
+1704667 Thread[main,5,main] Starting background refreshing.
+1704696 Thread[WorkerThread-1,2,main] Fetch [/home/timurk] / (remote=[urlEntry=[origin(url=https://github.com/abraxees/settings.git)]];updateSubmodules=true;initializeSubmodules=true;remember=false)
+1704729 Thread[WorkerThread-1,2,main] Using system SSH client
+1704729 Thread[WorkerThread-1,2,main] Executing #38 [/home/timurk] /usr/bin/git fetch --progress --prune origin
+1705573 Thread[WorkerThread-1,2,main] Updating submodules for /home/timurk (recursive=true;skipModifiedSubmodules=true)
+1705596 Thread[WorkerThread-1,2,main] Executing #39 [/home/timurk] /usr/bin/git status --untracked-files=no --porcelain
+1705680 Thread[WorkerThread-1,2,main] Using system SSH client
+1705681 Thread[WorkerThread-1,2,main] Executing #40 [/home/timurk] /usr/bin/git ls-remote origin refs/heads/master*
+1706501 Thread[QThreadPoolThread-1 (stdout-#40 /usr/bin/git ls-remote origin refs/heads/master*),5,main] stdout: 15ea4850ed0f1d12c7e6875782f2b5130c627214	refs/heads/master
+1706502 Thread[WorkerThread-1,2,main] Collecting changes, pending trigger file count is 0 (latestSeq=33688)
+1706513 Thread[WorkerThread-1,2,main] Collecting changes finished (latestSeq=33692)
+1706513 Thread[WorkerThread-1,2,main] Firing 5 changes for [/home/timurk] to 1 listeners (maxSeq=33691;latestSeq=33692)
+1706513 Thread[WorkerThread-1,2,main] Post-command refresh for [/.git/FETCH_HEAD<empty>, /.git/index.lock<infinity>, /<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.git/index<empty>, /.smartgit/7.1/log.txt<empty>] for /home/timurk
+1706523 Thread[WorkerThread-1,2,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1<files>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1706622 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@2E7F871C
+1706668 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33696)
+1706713 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33700)
+1706713 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33699;latestSeq=33700)
+1706713 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Running background refresh: []
+1706714 Thread[QThreadPoolThread-5 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1707020 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@7398A5CB
+1713393 Thread[main,5,main] Performing 'merge, Merge..., Merge changes from other branches.'
+1713413 Thread[main,5,main] Showing dialog 25 (@6A17AB7F) '@37FC5543 - Merge' (owner: @79DF93F2)
+1713459 Thread[main,5,main] Showing dialog 26 (@75E22ACC) '@5367F38A - Refresh' (owner: @6A17AB7F)
+1713505 Thread[main,5,main] No node found for commit 10599ccee3c634591c968393d16810ad6c307eba.
+1713505 Thread[main,5,main] Closing dialog with option Cancel - -1 - 26 (@75E22ACC) '@5367F38A - Refresh' (owner: @6A17AB7F)
+1713505 Thread[main,5,main] Disposing dialog 26 (@75E22ACC) '@5367F38A - Refresh' (owner: @6A17AB7F)
+1713510 Thread[main,5,main] Showed dialog 26 (@75E22ACC) '@5367F38A - Refresh' (owner: @6A17AB7F) (Cancel - -1)
+1713526 Thread[main,5,main] No node found for commit 10599ccee3c634591c968393d16810ad6c307eba.
+1713526 Thread[QThreadPoolThread-0 (smartgit.WT),5,main] Operation cancelled.
+1713526 Thread[main,5,main] No node found for commit 10599ccee3c634591c968393d16810ad6c307eba.
+1720736 Thread[main,5,main] Performing 'Create Merge-Commit' button in window @6A17AB7F owner @79DF93F2
+1720741 Thread[main,5,main] Showing dialog 27 (@519030E7) '@517AB786 - Refresh' (owner: @6A17AB7F)
+1720763 Thread[main,5,main] Closing dialog with option Cancel - -1 - 27 (@519030E7) '@517AB786 - Refresh' (owner: @6A17AB7F)
+1720763 Thread[main,5,main] Disposing dialog 27 (@519030E7) '@517AB786 - Refresh' (owner: @6A17AB7F)
+1720767 Thread[main,5,main] Showed dialog 27 (@519030E7) '@517AB786 - Refresh' (owner: @6A17AB7F) (Cancel - -1)
+1720780 Thread[main,5,main] Showing dialog 28 (@29ED8DF4) '@2B02A3AD - Merge' (owner: @6A17AB7F)
+1723160 Thread[main,5,main] Performing 'Fast-Forward' button in window @29ED8DF4 owner @6A17AB7F owner @79DF93F2
+1723160 Thread[main,5,main] Closing dialog with option Yes - 8 - 28 (@29ED8DF4) '@2B02A3AD - Merge' (owner: @6A17AB7F)
+1723163 Thread[main,5,main] Disposing dialog 28 (@29ED8DF4) '@2B02A3AD - Merge' (owner: @6A17AB7F)
+1723171 Thread[main,5,main] Showed dialog 28 (@29ED8DF4) '@2B02A3AD - Merge' (owner: @6A17AB7F) (Yes - 8)
+1723172 Thread[main,5,main] Closing dialog with option OK - 2 - 25 (@6A17AB7F) '@37FC5543 - Merge' (owner: @79DF93F2)
+1723172 Thread[main,5,main] Disposing dialog 25 (@6A17AB7F) '@37FC5543 - Merge' (owner: @79DF93F2)
+1723178 Thread[main,5,main] Showed dialog 25 (@6A17AB7F) '@37FC5543 - Merge' (owner: @79DF93F2) (OK - 2)
+1723180 Thread[main,5,main] Starting background refreshing.
+1723206 Thread[WorkerThread-1,2,main] Merge [/home/timurk] / (fastForward=true, commit=true)
+1723218 Thread[WorkerThread-1,2,main] Using system SSH client
+1723219 Thread[WorkerThread-1,2,main] Executing #41 [/home/timurk] /usr/bin/git merge --ff master
+1723222 Thread[QThreadPoolThread-1 (stdout-#41 /usr/bin/git merge --ff master),5,main] stdout: Already up-to-date.
+1723227 Thread[WorkerThread-1,2,main] Updating submodules for /home/timurk (recursive=true;skipModifiedSubmodules=true)
+1723228 Thread[WorkerThread-1,2,main] Collecting changes, pending trigger file count is 0 (latestSeq=33724)
+1723236 Thread[WorkerThread-1,2,main] Collecting changes finished (latestSeq=33736)
+1723236 Thread[WorkerThread-1,2,main] Firing 4 changes for [/home/timurk] to 1 listeners (maxSeq=33735;latestSeq=33736)
+1723236 Thread[WorkerThread-1,2,main] Post-command refresh for [/.git/ORIG_HEAD.lock<infinity>, /<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.smartgit/7.1/log.txt<empty>, /.git/ORIG_HEAD<empty>] for /home/timurk
+1723237 Thread[WorkerThread-1,2,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1723345 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@12E12B4
+1724181 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33744)
+1724238 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33748)
+1724238 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33747;latestSeq=33748)
+1724238 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Running background refresh: []
+1724239 Thread[QThreadPoolThread-1 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1724349 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@6848BEC3
+1727936 Thread[main,5,main] Performing 'commit, Commit..., Commit local changes.'
+1727983 Thread[main,5,main] Showing dialog 29 (@12165B19) '@79B6CF95 - Commit' (owner: @79DF93F2)
+1734639 Thread[main,5,main] Performing 'Commit' button in window @12165B19 owner @79DF93F2
+1734639 Thread[main,5,main] Closing dialog with option OK - 2 - 29 (@12165B19) '@79B6CF95 - Commit' (owner: @79DF93F2)
+1734640 Thread[main,5,main] Disposing dialog 29 (@12165B19) '@79B6CF95 - Commit' (owner: @79DF93F2)
+1734653 Thread[main,5,main] Starting background refreshing.
+1734654 Thread[main,5,main] Showed dialog 29 (@12165B19) '@79B6CF95 - Commit' (owner: @79DF93F2) (OK - 2)
+1734690 Thread[WorkerThread-1,2,main] Commit [/home/timurk] / (amend=false;sign-off=false;pathsToInclude=[])
+1734691 Thread[WorkerThread-1,2,main] Executing #42 [/home/timurk] /usr/bin/git commit --file=/tmp/smartgit4341466774036174710tmp/commit3013527962075499479.tmp
+1734822 Thread[QThreadPoolThread-0 (stdout-#42 /usr/bin/git commit --file=/tmp/smartgit4341466774036174710tmp/commit3013527962075499479.tmp),5,main] stdout: [master 7a828b4] merge
+1734822 Thread[QThreadPoolThread-0 (stdout-#42 /usr/bin/git commit --file=/tmp/smartgit4341466774036174710tmp/commit3013527962075499479.tmp),5,main] stdout:  2 files changed, 1497 insertions(+)
+1734823 Thread[WorkerThread-1,2,main] Collecting changes, pending trigger file count is 0 (latestSeq=33826)
+1734852 Thread[WorkerThread-1,2,main] Collecting changes finished (latestSeq=33832)
+1734853 Thread[WorkerThread-1,2,main] Firing 17 changes for [/home/timurk] to 1 listeners (maxSeq=33831;latestSeq=33832)
+1734853 Thread[WorkerThread-1,2,main] Post-command refresh for 18 paths for /home/timurk
+1734904 Thread[WorkerThread-1,2,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1<files>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1734971 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@5CED3D73
+1735653 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33840)
+1735753 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33844)
+1735753 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33843;latestSeq=33844)
+1735753 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Running background refresh: []
+1735754 Thread[QThreadPoolThread-1 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1735826 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@2DAD7733
+1741159 Thread[main,5,main] Performing 'push, Push..., Push local commits to the remote origin repository.'
+1741188 Thread[main,5,main] Showing dialog 30 (@58C992F8) '@19D00552 - Push' (owner: @79DF93F2)
+1742991 Thread[main,5,main] Performing 'Push' button in window @58C992F8 owner @79DF93F2
+1742991 Thread[main,5,main] Closing dialog with option OK - 2 - 30 (@58C992F8) '@19D00552 - Push' (owner: @79DF93F2)
+1742992 Thread[main,5,main] Disposing dialog 30 (@58C992F8) '@19D00552 - Push' (owner: @79DF93F2)
+1742997 Thread[main,5,main] Showed dialog 30 (@58C992F8) '@19D00552 - Push' (owner: @79DF93F2) (OK - 2)
+1742999 Thread[main,5,main] Starting background refreshing.
+1743034 Thread[WorkerThread-1,2,main] Push [/home/timurk] / (remoteID=[urlEntry=[origin(url=https://github.com/abraxees/settings.git)]];refToTargetBranchName={CgCommitRef[refs/heads/master]=smartgit.aSc@bf8d2a62};configureTracking=true;force=false;tags=false)
+1743038 Thread[WorkerThread-1,2,main] Using system SSH client
+1743039 Thread[WorkerThread-1,2,main] Executing #43 [/home/timurk] /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/heads/master
+1743935 Thread[QThreadPoolThread-5 (smartgit.aVW),5,main] Received command 'get-http-credentials'
+1743935 Thread[QThreadPoolThread-5 (smartgit.aVW),5,main]   params: id=5145114949400960085;remoteId=https://github.com/abraxees/settings.git;username=<unset>
+1743936 Thread[QThreadPoolThread-5 (smartgit.aVW),5,main] Authenticating at https://github.com/abraxees/settings.git using auto-generated credentials
+1743997 Thread[QThreadPoolThread-5 (smartgit.aVW),5,main] Received command 'get-http-credentials'
+1743998 Thread[QThreadPoolThread-5 (smartgit.aVW),5,main]   params: id=5145114949400960085;remoteId=https://github.com/abraxees/settings.git;username=<set>
+1743998 Thread[QThreadPoolThread-5 (smartgit.aVW),5,main] Authenticating at https://github.com/abraxees/settings.git using auto-generated credentials
+1744776 Thread[QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he),5,main] stderr: error: failed to push some refs to 'https://github.com/abraxees/settings.git'
+1744780 Thread[QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he),5,main] stderr: hint: Updates were rejected because the tip of your current branch is behind
+1744780 Thread[QThreadPoolThread-0 (stdout-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he),5,main] stdout: To https://github.com/abraxees/settings.git
+1744780 Thread[QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he),5,main] stderr: hint: its remote counterpart. Integrate the remote changes (e.g.
+1744780 Thread[QThreadPoolThread-0 (stdout-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he),5,main] stdout: !	refs/heads/master:refs/heads/master	[rejected] (non-fast-forward)
+1744780 Thread[QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he),5,main] stderr: hint: 'git pull ...') before pushing again.
+1744781 Thread[QThreadPoolThread-0 (stdout-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he),5,main] stdout: Done
+1744781 Thread[QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he),5,main] stderr: hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+1744782 Thread[WorkerThread-1,2,main] Not all refs have been pushed.
+1744782 Thread[WorkerThread-1,2,main] Not all refs have been pushed.
+smartgit.fe: Not all refs have been pushed.
+	at smartgit.aSg.a(SourceFile:55)
+	at smartgit.aSg.a(SourceFile:105)
+	at smartgit.aSg.a(SourceFile:86)
+	at smartgit.aRF.a(SourceFile:46)
+	at smartgit.aDI.a(SourceFile:59)
+	at smartgit.aDI.a(SourceFile:22)
+	at smartgit.kq.a(SourceFile:91)
+	at smartgit.cj.a(SourceFile:42)
+	at smartgit.lH.run(SourceFile:103)
+	at smartgit.WU.run(SourceFile:53)
+1744782 Thread[WorkerThread-1,2,main] Collecting changes, pending trigger file count is 0 (latestSeq=33864)
+1744863 Thread[WorkerThread-1,2,main] Collecting changes finished (latestSeq=33868)
+1744864 Thread[WorkerThread-1,2,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33867;latestSeq=33868)
+1744864 Thread[WorkerThread-1,2,main] Post-command refresh for [/<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.smartgit/7.1/log.txt<empty>] for /home/timurk
+1744864 Thread[WorkerThread-1,2,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1744946 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@2ABBA40A
+1744981 Thread[main,5,main] Show (warn): Command Failed - Executing a command has failed. - Not all refs have been pushed.
+1744984 Thread[main,5,main] Showing dialog 31 (@57BFE82D) '@78240F5C - Command Failed' (owner: @79DF93F2)
+1744999 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33872)
+1745064 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33876)
+1745064 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33875;latestSeq=33876)
+1745064 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Running background refresh: []
+1745064 Thread[QThreadPoolThread-3 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1745279 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@744CF1E3
+1746936 Thread[main,5,main] Performing 'OK' button in window @57BFE82D owner @79DF93F2
+1746936 Thread[main,5,main] Closing dialog with option OK - 2 - 31 (@57BFE82D) '@78240F5C - Command Failed' (owner: @79DF93F2)
+1746937 Thread[main,5,main] Disposing dialog 31 (@57BFE82D) '@78240F5C - Command Failed' (owner: @79DF93F2)
+1746948 Thread[main,5,main] Showed dialog 31 (@57BFE82D) '@78240F5C - Command Failed' (owner: @79DF93F2) (OK - 2)
+1746949 Thread[main,5,main] Starting background refreshing.
+1747950 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33888)
+1747967 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33892)
+1747967 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33891;latestSeq=33892)
+1747967 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Running background refresh: []
+1747968 Thread[QThreadPoolThread-1 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1748038 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@635F205A
+1754788 Thread[QThreadPoolThread-0 (smartgit.bnV),5,main] Running background poll: [/home/timurk]
+1754803 Thread[QThreadPoolThread-0 (smartgit.bnV),5,main] Using system SSH client
+1754803 Thread[QThreadPoolThread-0 (smartgit.bnV),5,main] Executing #44 [/home/timurk] /usr/bin/git ls-remote origin refs/heads/master*
+1755671 Thread[QThreadPoolThread-1 (stdout-#44 /usr/bin/git ls-remote origin refs/heads/master*),5,main] stdout: 15ea4850ed0f1d12c7e6875782f2b5130c627214	refs/heads/master
+1758838 Thread[main,5,main] Performing 'sync, Synchronize, Push local commits of the current branch and pull remote changes.'
+1758853 Thread[main,5,main] Show (warn): Synchronize - /home/timurk has no tracked branch. - Syncing requires working trees being on a local branch which is tracked.
+1758858 Thread[main,5,main] Showing dialog 32 (@1026E651) '@69DAD81F - Synchronize' (owner: @79DF93F2)
+1762958 Thread[main,5,main] Performing 'OK' button in window @1026E651 owner @79DF93F2
+1762959 Thread[main,5,main] Closing dialog with option OK - 2 - 32 (@1026E651) '@69DAD81F - Synchronize' (owner: @79DF93F2)
+1762959 Thread[main,5,main] Disposing dialog 32 (@1026E651) '@69DAD81F - Synchronize' (owner: @79DF93F2)
+1762963 Thread[main,5,main] Showed dialog 32 (@1026E651) '@69DAD81F - Synchronize' (owner: @79DF93F2) (OK - 2)
+1762964 Thread[main,5,main] Starting background refreshing.
+1763965 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33914)
+1763984 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33918)
+1763985 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33917;latestSeq=33918)
+1763985 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Running background refresh: []
+1763985 Thread[QThreadPoolThread-1 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1764049 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@1E4E18F1
+1764583 Thread[main,5,main] Performing 'sync, Synchronize, Push local commits of the current branch and pull remote changes.'
+1764618 Thread[main,5,main] Show (warn): Synchronize - /home/timurk has no tracked branch. - Syncing requires working trees being on a local branch which is tracked.
+1764621 Thread[main,5,main] Showing dialog 33 (@23103E48) '@7F68FAF3 - Synchronize' (owner: @79DF93F2)
+1768030 Thread[main,5,main] Performing 'OK' button in window @23103E48 owner @79DF93F2
+1768030 Thread[main,5,main] Closing dialog with option OK - 2 - 33 (@23103E48) '@7F68FAF3 - Synchronize' (owner: @79DF93F2)
+1768031 Thread[main,5,main] Disposing dialog 33 (@23103E48) '@7F68FAF3 - Synchronize' (owner: @79DF93F2)
+1768035 Thread[main,5,main] Showed dialog 33 (@23103E48) '@7F68FAF3 - Synchronize' (owner: @79DF93F2) (OK - 2)
+1768036 Thread[main,5,main] Starting background refreshing.
+1769036 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33934)
+1769091 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33938)
+1769091 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33937;latestSeq=33938)
+1769092 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Running background refresh: []
+1769093 Thread[QThreadPoolThread-1 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1769158 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@617BBFB5
+1777455 Thread[main,5,main] Performing 'repositorySettings, Settings..., Configure repository-specific settings.' menu item in &Repository from menu in window org.eclipse.swt.widgets.Shell@79DF93F2:Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}
+1777460 Thread[main,5,main] Showing dialog 34 (@7F854922) '@7849896 - Repository Settings' (owner: @79DF93F2)
+1777549 Thread[main,5,main] Unsupported encoding: ISO-2022-CN
+1777595 Thread[main,5,main] Unsupported encoding: x-JISAutoDetect
+1784783 Thread[main,5,main] radio button 'Rebase local branch onto fetched changes' selected in org.eclipse.swt.widgets.Shell@7F854922:Shell {Repository Settings}
+1790350 Thread[main,5,main] Performing 'OK' button in window @7F854922 owner @79DF93F2
+1790350 Thread[main,5,main] Closing dialog with option OK - 2 - 34 (@7F854922) '@7849896 - Repository Settings' (owner: @79DF93F2)
+1790350 Thread[main,5,main] Disposing dialog 34 (@7F854922) '@7849896 - Repository Settings' (owner: @79DF93F2)
+1790371 Thread[main,5,main] Showed dialog 34 (@7F854922) '@7849896 - Repository Settings' (owner: @79DF93F2) (OK - 2)
+1790372 Thread[main,5,main] Starting background refreshing.
+1791373 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=33976)
+1791418 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Collecting changes finished (latestSeq=33980)
+1791418 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Firing 6 changes for [/home/timurk] to 1 listeners (maxSeq=33979;latestSeq=33980)
+1791418 Thread[QThreadPoolThread-0 (smartgit.bod),5,main] Running background refresh: []
+1791440 Thread[QThreadPoolThread-1 (Refresh-0),5,main] Refresh /home/timurk [/<empty>, /.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1791515 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@32A85F71
+1793423 Thread[main,5,main] Performing 'fetch, Pull..., Pull commits from a remote repository.'
+1793460 Thread[main,5,main] Showing dialog 35 (@51B3B64) '@3ED824DA - Pull' (owner: @79DF93F2)
+1801773 Thread[main,5,main] Performing 'Fetch Only' button in window @51B3B64 owner @79DF93F2
+1801774 Thread[main,5,main] Closing dialog with option OK - 2 - 35 (@51B3B64) '@3ED824DA - Pull' (owner: @79DF93F2)
+1801774 Thread[main,5,main] Disposing dialog 35 (@51B3B64) '@3ED824DA - Pull' (owner: @79DF93F2)
+1801783 Thread[main,5,main] Showed dialog 35 (@51B3B64) '@3ED824DA - Pull' (owner: @79DF93F2) (OK - 2)
+1801788 Thread[main,5,main] Starting background refreshing.
+1801826 Thread[WorkerThread-1,2,main] Fetch [/home/timurk] / (remote=[urlEntry=[origin(url=https://github.com/abraxees/settings.git)]];updateSubmodules=true;initializeSubmodules=true;remember=false)
+1801850 Thread[WorkerThread-1,2,main] Using system SSH client
+1801852 Thread[WorkerThread-1,2,main] Executing #45 [/home/timurk] /usr/bin/git fetch --progress --prune origin
+1802683 Thread[WorkerThread-1,2,main] Updating submodules for /home/timurk (recursive=true;skipModifiedSubmodules=true)
+1802706 Thread[WorkerThread-1,2,main] Executing #46 [/home/timurk] /usr/bin/git status --untracked-files=no --porcelain
+1802729 Thread[WorkerThread-1,2,main] Using system SSH client
+1802730 Thread[WorkerThread-1,2,main] Executing #47 [/home/timurk] /usr/bin/git ls-remote origin refs/heads/master*
+1803586 Thread[QThreadPoolThread-1 (stdout-#47 /usr/bin/git ls-remote origin refs/heads/master*),5,main] stdout: 15ea4850ed0f1d12c7e6875782f2b5130c627214	refs/heads/master
+1803588 Thread[WorkerThread-1,2,main] Collecting changes, pending trigger file count is 0 (latestSeq=34008)
+1803633 Thread[WorkerThread-1,2,main] Collecting changes finished (latestSeq=34012)
+1803634 Thread[WorkerThread-1,2,main] Firing 4 changes for [/home/timurk] to 1 listeners (maxSeq=34011;latestSeq=34012)
+1803634 Thread[WorkerThread-1,2,main] Post-command refresh for [/.git/FETCH_HEAD<empty>, /.git/index.lock<infinity>, /<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.smartgit/7.1/log.txt<empty>] for /home/timurk
+1803636 Thread[WorkerThread-1,2,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1803715 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@7FCDB8A0
+1803789 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Collecting changes, pending trigger file count is 0 (latestSeq=34016)
+1803833 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Collecting changes finished (latestSeq=34020)
+1803834 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=34019;latestSeq=34020)
+1803834 Thread[QThreadPoolThread-1 (smartgit.bod),5,main] Running background refresh: []
+1803834 Thread[QThreadPoolThread-5 (Refresh-0),5,main] Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1804054 Thread[main,5,main] file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@68A9E8DA
+1812870 Thread[main,5,main] Performing 'commit, Commit..., Commit local changes.'
+1812920 Thread[main,5,main] Showing dialog 36 (@71FA2083) '@5C6CB2EA - Commit' (owner: @79DF93F2)
+1812936 Thread[main,5,main] radio button 'Local Changes' selected in org.eclipse.swt.widgets.Shell@71FA2083:Shell {Commit}
+1818270 Thread[main,5,main] Performing 'Commit' button in window @71FA2083 owner @79DF93F2
+1818270 Thread[main,5,main] Closing dialog with option OK - 2 - 36 (@71FA2083) '@5C6CB2EA - Commit' (owner: @79DF93F2)
+1818271 Thread[main,5,main] Disposing dialog 36 (@71FA2083) '@5C6CB2EA - Commit' (owner: @79DF93F2)
+1818282 Thread[main,5,main] Starting background refreshing.
+1818284 Thread[main,5,main] Showed dialog 36 (@71FA2083) '@5C6CB2EA - Commit' (owner: @79DF93F2) (OK - 2)
+1818329 Thread[WorkerThread-1,2,main] Commit [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp] (amend=false;signOff=false)
+1818384 Thread[WorkerThread-1,2,main] Files to stage [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp]
+1818386 Thread[WorkerThread-1,2,main] Executing #48 [/home/timurk] /usr/bin/git add --force -- .smartgit/7.1/log.txt .smartgit/7.1/~current-log.1460232465400.tmp
+1818482 Thread[WorkerThread-1,2,main] Files to commit [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp]
+1818484 Thread[WorkerThread-1,2,main] Executing #49 [/home/timurk] /usr/bin/git commit --file=/tmp/smartgit4341466774036174710tmp/commit9184702536716998035.tmp -o -- .smartgit/7.1/log.txt .smartgit/7.1/~current-log.1460232465400.tmp

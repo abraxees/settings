@@ -10223,3 +10223,304 @@ smartgit.fe: Not all refs have been pushed.
 1691167 (2016-04-09 23:35:56,228) [WorkerThread-1] INFO      smartgit.command  - Stage [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp]
 1691173 (2016-04-09 23:35:56,234) [WorkerThread-1] INFO      smartgit.command  -   actually staging [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp]
 1691175 (2016-04-09 23:35:56,236) [WorkerThread-1] INFO                q.exec  - Executing #37 [/home/timurk] /usr/bin/git add --force -- .smartgit/7.1/log.txt .smartgit/7.1/~current-log.1460232465400.tmp
+1691270 (2016-04-09 23:35:56,331) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33600)
+1691296 (2016-04-09 23:35:56,357) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33624)
+1691296 (2016-04-09 23:35:56,357) [WorkerThread-1] INFO        sc.file.change  - Firing 8 changes for [/home/timurk] to 1 listeners (maxSeq=33623;latestSeq=33624)
+1691296 (2016-04-09 23:35:56,357) [WorkerThread-1] INFO  smartgit.command.refresh  - Post-command refresh for [/.git/index.lock<infinity>, /<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.git/objects/a8/b1ac4db0c6e3ae7537c99bb60fa5b60ac61d23<empty>, /.git/index<empty>, /.git/objects/72/tmp_obj_d6UUUw<infinity>, /.smartgit/7.1/log.txt<empty>, /.git/objects/72/2af3ef788a76173404fa75ddf8f614bc7f60df<empty>, /.git/objects/a8/tmp_obj_Bcmour<infinity>] for /home/timurk
+1691312 (2016-04-09 23:35:56,373) [WorkerThread-1] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1<files>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1691417 (2016-04-09 23:35:56,478) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@592D10F2
+1693097 (2016-04-09 23:35:58,158) [main] INFO              q.action  - Performing 'commit, Commit..., Commit local changes.'
+1693151 (2016-04-09 23:35:58,212) [main] INFO              q.dialog  - Showing dialog 23 (@36587D59) '@6B8D79EE - Commit' (owner: @79DF93F2)
+1693187 (2016-04-09 23:35:58,248) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Commit}@36587D59
+1693199 (2016-04-09 23:35:58,260) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Commit}@36587D59
+1699650 (2016-04-09 23:36:04,711) [main] INFO              q.action  - Performing 'Cancel' button in window @36587D59 owner @79DF93F2
+1699650 (2016-04-09 23:36:04,711) [main] INFO              q.dialog  - Closing dialog with option Cancel - -1 - 23 (@36587D59) '@6B8D79EE - Commit' (owner: @79DF93F2)
+1699651 (2016-04-09 23:36:04,712) [main] INFO              q.dialog  - Disposing dialog 23 (@36587D59) '@6B8D79EE - Commit' (owner: @79DF93F2)
+1699666 (2016-04-09 23:36:04,727) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@36587D59 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1699666 (2016-04-09 23:36:04,727) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1699668 (2016-04-09 23:36:04,729) [main] INFO              q.dialog  - Showed dialog 23 (@36587D59) '@6B8D79EE - Commit' (owner: @79DF93F2) (Cancel - -1)
+1700666 (2016-04-09 23:36:05,727) [QThreadPoolThread-1 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33642)
+1700706 (2016-04-09 23:36:05,767) [QThreadPoolThread-1 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33646)
+1700707 (2016-04-09 23:36:05,768) [QThreadPoolThread-1 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33645;latestSeq=33646)
+1700707 (2016-04-09 23:36:05,768) [QThreadPoolThread-1 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1700708 (2016-04-09 23:36:05,769) [QThreadPoolThread-0 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1700825 (2016-04-09 23:36:05,886) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@4E41D2B3
+1702273 (2016-04-09 23:36:07,334) [main] INFO              q.action  - Performing 'fetch, Pull..., Pull commits from a remote repository.'
+1702289 (2016-04-09 23:36:07,350) [main] INFO              q.dialog  - Showing dialog 24 (@51E6CDA2) '@7C670B0 - Pull' (owner: @79DF93F2)
+1702314 (2016-04-09 23:36:07,375) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Pull}@51E6CDA2
+1702322 (2016-04-09 23:36:07,383) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Pull}@51E6CDA2
+1704650 (2016-04-09 23:36:09,711) [main] INFO              q.action  - Performing 'Fetch Only' button in window @51E6CDA2 owner @79DF93F2
+1704650 (2016-04-09 23:36:09,711) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 24 (@51E6CDA2) '@7C670B0 - Pull' (owner: @79DF93F2)
+1704651 (2016-04-09 23:36:09,712) [main] INFO              q.dialog  - Disposing dialog 24 (@51E6CDA2) '@7C670B0 - Pull' (owner: @79DF93F2)
+1704666 (2016-04-09 23:36:09,727) [main] INFO              q.dialog  - Showed dialog 24 (@51E6CDA2) '@7C670B0 - Pull' (owner: @79DF93F2) (OK - 2)
+1704667 (2016-04-09 23:36:09,728) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@51E6CDA2 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1704668 (2016-04-09 23:36:09,729) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1704697 (2016-04-09 23:36:09,758) [WorkerThread-1] INFO      smartgit.command  - Fetch [/home/timurk] / (remote=[urlEntry=[origin(url=https://github.com/abraxees/settings.git)]];updateSubmodules=true;initializeSubmodules=true;remember=false)
+1704729 (2016-04-09 23:36:09,790) [WorkerThread-1] INFO  smartgit.executable.remoteCmd  - Using system SSH client
+1704730 (2016-04-09 23:36:09,791) [WorkerThread-1] INFO                q.exec  - Executing #38 [/home/timurk] /usr/bin/git fetch --progress --prune origin
+1705574 (2016-04-09 23:36:10,635) [WorkerThread-1] INFO    smartgit.submodule  - Updating submodules for /home/timurk (recursive=true;skipModifiedSubmodules=true)
+1705597 (2016-04-09 23:36:10,658) [WorkerThread-1] INFO                q.exec  - Executing #39 [/home/timurk] /usr/bin/git status --untracked-files=no --porcelain
+1705681 (2016-04-09 23:36:10,742) [WorkerThread-1] INFO  smartgit.executable.remoteCmd  - Using system SSH client
+1705682 (2016-04-09 23:36:10,743) [WorkerThread-1] INFO                q.exec  - Executing #40 [/home/timurk] /usr/bin/git ls-remote origin refs/heads/master*
+1706502 (2016-04-09 23:36:11,563) [QThreadPoolThread-1 (stdout-#40 /usr/bin/git ls-remote origin refs/heads/master*)] INFO  smartgit.command.logging  - stdout: 15ea4850ed0f1d12c7e6875782f2b5130c627214	refs/heads/master
+1706503 (2016-04-09 23:36:11,564) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33688)
+1706514 (2016-04-09 23:36:11,575) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33692)
+1706514 (2016-04-09 23:36:11,575) [WorkerThread-1] INFO        sc.file.change  - Firing 5 changes for [/home/timurk] to 1 listeners (maxSeq=33691;latestSeq=33692)
+1706514 (2016-04-09 23:36:11,575) [WorkerThread-1] INFO  smartgit.command.refresh  - Post-command refresh for [/.git/FETCH_HEAD<empty>, /.git/index.lock<infinity>, /<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.git/index<empty>, /.smartgit/7.1/log.txt<empty>] for /home/timurk
+1706524 (2016-04-09 23:36:11,585) [WorkerThread-1] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1<files>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1706623 (2016-04-09 23:36:11,684) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@2E7F871C
+1706669 (2016-04-09 23:36:11,730) [QThreadPoolThread-1 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33696)
+1706714 (2016-04-09 23:36:11,775) [QThreadPoolThread-1 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33700)
+1706714 (2016-04-09 23:36:11,775) [QThreadPoolThread-1 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33699;latestSeq=33700)
+1706714 (2016-04-09 23:36:11,775) [QThreadPoolThread-1 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1706715 (2016-04-09 23:36:11,776) [QThreadPoolThread-5 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1707021 (2016-04-09 23:36:12,082) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@7398A5CB
+1713393 (2016-04-09 23:36:18,454) [main] INFO              q.action  - Performing 'merge, Merge..., Merge changes from other branches.'
+1713414 (2016-04-09 23:36:18,475) [main] INFO              q.dialog  - Showing dialog 25 (@6A17AB7F) '@37FC5543 - Merge' (owner: @79DF93F2)
+1713442 (2016-04-09 23:36:18,503) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Merge}@6A17AB7F
+1713460 (2016-04-09 23:36:18,521) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Merge}@6A17AB7F
+1713460 (2016-04-09 23:36:18,521) [main] INFO              q.dialog  - Showing dialog 26 (@75E22ACC) '@5367F38A - Refresh' (owner: @6A17AB7F)
+1713478 (2016-04-09 23:36:18,539) [main] INFO  q.swt.shellActivation  - Activation change from Shell {Merge}@6A17AB7F to Shell {Refresh}@75E22ACC
+1713479 (2016-04-09 23:36:18,540) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Refresh}@75E22ACC
+1713506 (2016-04-09 23:36:18,567) [main] WARN          smartgit.log  - No node found for commit 10599ccee3c634591c968393d16810ad6c307eba.
+1713506 (2016-04-09 23:36:18,567) [main] INFO              q.dialog  - Closing dialog with option Cancel - -1 - 26 (@75E22ACC) '@5367F38A - Refresh' (owner: @6A17AB7F)
+1713506 (2016-04-09 23:36:18,567) [main] INFO              q.dialog  - Disposing dialog 26 (@75E22ACC) '@5367F38A - Refresh' (owner: @6A17AB7F)
+1713511 (2016-04-09 23:36:18,572) [main] INFO              q.dialog  - Showed dialog 26 (@75E22ACC) '@5367F38A - Refresh' (owner: @6A17AB7F) (Cancel - -1)
+1713524 (2016-04-09 23:36:18,585) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@75E22ACC to Shell {Merge}@6A17AB7F
+1713527 (2016-04-09 23:36:18,588) [main] WARN          smartgit.log  - No node found for commit 10599ccee3c634591c968393d16810ad6c307eba.
+1713527 (2016-04-09 23:36:18,588) [QThreadPoolThread-0 (smartgit.WT)] WARN      smartgit.command  - Operation cancelled.
+1713527 (2016-04-09 23:36:18,588) [main] WARN          smartgit.log  - No node found for commit 10599ccee3c634591c968393d16810ad6c307eba.
+1720737 (2016-04-09 23:36:25,798) [main] INFO              q.action  - Performing 'Create Merge-Commit' button in window @6A17AB7F owner @79DF93F2
+1720742 (2016-04-09 23:36:25,803) [main] INFO              q.dialog  - Showing dialog 27 (@519030E7) '@517AB786 - Refresh' (owner: @6A17AB7F)
+1720759 (2016-04-09 23:36:25,820) [main] INFO  q.swt.shellActivation  - Activation change from Shell {Merge}@6A17AB7F to Shell {Refresh}@519030E7
+1720764 (2016-04-09 23:36:25,825) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Refresh}@519030E7
+1720764 (2016-04-09 23:36:25,825) [main] INFO              q.dialog  - Closing dialog with option Cancel - -1 - 27 (@519030E7) '@517AB786 - Refresh' (owner: @6A17AB7F)
+1720764 (2016-04-09 23:36:25,825) [main] INFO              q.dialog  - Disposing dialog 27 (@519030E7) '@517AB786 - Refresh' (owner: @6A17AB7F)
+1720768 (2016-04-09 23:36:25,829) [main] INFO              q.dialog  - Showed dialog 27 (@519030E7) '@517AB786 - Refresh' (owner: @6A17AB7F) (Cancel - -1)
+1720768 (2016-04-09 23:36:25,829) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@519030E7 to Shell {Merge}@6A17AB7F
+1720781 (2016-04-09 23:36:25,842) [main] INFO              q.dialog  - Showing dialog 28 (@29ED8DF4) '@2B02A3AD - Merge' (owner: @6A17AB7F)
+1720804 (2016-04-09 23:36:25,865) [main] INFO  q.swt.shellActivation  - Activation change from Shell {Merge}@6A17AB7F to Shell {Merge}@29ED8DF4
+1720806 (2016-04-09 23:36:25,867) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Merge}@29ED8DF4
+1723161 (2016-04-09 23:36:28,222) [main] INFO              q.action  - Performing 'Fast-Forward' button in window @29ED8DF4 owner @6A17AB7F owner @79DF93F2
+1723161 (2016-04-09 23:36:28,222) [main] INFO              q.dialog  - Closing dialog with option Yes - 8 - 28 (@29ED8DF4) '@2B02A3AD - Merge' (owner: @6A17AB7F)
+1723164 (2016-04-09 23:36:28,225) [main] INFO              q.dialog  - Disposing dialog 28 (@29ED8DF4) '@2B02A3AD - Merge' (owner: @6A17AB7F)
+1723171 (2016-04-09 23:36:28,232) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@29ED8DF4 to Shell {Merge}@6A17AB7F
+1723172 (2016-04-09 23:36:28,233) [main] INFO              q.dialog  - Showed dialog 28 (@29ED8DF4) '@2B02A3AD - Merge' (owner: @6A17AB7F) (Yes - 8)
+1723173 (2016-04-09 23:36:28,234) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 25 (@6A17AB7F) '@37FC5543 - Merge' (owner: @79DF93F2)
+1723173 (2016-04-09 23:36:28,234) [main] INFO              q.dialog  - Disposing dialog 25 (@6A17AB7F) '@37FC5543 - Merge' (owner: @79DF93F2)
+1723179 (2016-04-09 23:36:28,240) [main] INFO              q.dialog  - Showed dialog 25 (@6A17AB7F) '@37FC5543 - Merge' (owner: @79DF93F2) (OK - 2)
+1723181 (2016-04-09 23:36:28,242) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@6A17AB7F to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1723181 (2016-04-09 23:36:28,242) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1723207 (2016-04-09 23:36:28,268) [WorkerThread-1] INFO      smartgit.command  - Merge [/home/timurk] / (fastForward=true, commit=true)
+1723219 (2016-04-09 23:36:28,280) [WorkerThread-1] INFO  smartgit.executable.remoteCmd  - Using system SSH client
+1723220 (2016-04-09 23:36:28,281) [WorkerThread-1] INFO                q.exec  - Executing #41 [/home/timurk] /usr/bin/git merge --ff master
+1723223 (2016-04-09 23:36:28,284) [QThreadPoolThread-1 (stdout-#41 /usr/bin/git merge --ff master)] INFO  smartgit.command.logging  - stdout: Already up-to-date.
+1723228 (2016-04-09 23:36:28,289) [WorkerThread-1] INFO    smartgit.submodule  - Updating submodules for /home/timurk (recursive=true;skipModifiedSubmodules=true)
+1723229 (2016-04-09 23:36:28,290) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33724)
+1723237 (2016-04-09 23:36:28,298) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33736)
+1723237 (2016-04-09 23:36:28,298) [WorkerThread-1] INFO        sc.file.change  - Firing 4 changes for [/home/timurk] to 1 listeners (maxSeq=33735;latestSeq=33736)
+1723237 (2016-04-09 23:36:28,298) [WorkerThread-1] INFO  smartgit.command.refresh  - Post-command refresh for [/.git/ORIG_HEAD.lock<infinity>, /<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.smartgit/7.1/log.txt<empty>, /.git/ORIG_HEAD<empty>] for /home/timurk
+1723238 (2016-04-09 23:36:28,299) [WorkerThread-1] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1723346 (2016-04-09 23:36:28,407) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@12E12B4
+1724182 (2016-04-09 23:36:29,243) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33744)
+1724239 (2016-04-09 23:36:29,300) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33748)
+1724239 (2016-04-09 23:36:29,300) [QThreadPoolThread-0 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33747;latestSeq=33748)
+1724239 (2016-04-09 23:36:29,300) [QThreadPoolThread-0 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1724240 (2016-04-09 23:36:29,301) [QThreadPoolThread-1 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1724350 (2016-04-09 23:36:29,411) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@6848BEC3
+1727936 (2016-04-09 23:36:32,997) [main] INFO              q.action  - Performing 'commit, Commit..., Commit local changes.'
+1727984 (2016-04-09 23:36:33,045) [main] INFO              q.dialog  - Showing dialog 29 (@12165B19) '@79B6CF95 - Commit' (owner: @79DF93F2)
+1728022 (2016-04-09 23:36:33,083) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Commit}@12165B19
+1728036 (2016-04-09 23:36:33,097) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Commit}@12165B19
+1734640 (2016-04-09 23:36:39,701) [main] INFO              q.action  - Performing 'Commit' button in window @12165B19 owner @79DF93F2
+1734640 (2016-04-09 23:36:39,701) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 29 (@12165B19) '@79B6CF95 - Commit' (owner: @79DF93F2)
+1734641 (2016-04-09 23:36:39,702) [main] INFO              q.dialog  - Disposing dialog 29 (@12165B19) '@79B6CF95 - Commit' (owner: @79DF93F2)
+1734653 (2016-04-09 23:36:39,714) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@12165B19 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1734654 (2016-04-09 23:36:39,715) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1734655 (2016-04-09 23:36:39,716) [main] INFO              q.dialog  - Showed dialog 29 (@12165B19) '@79B6CF95 - Commit' (owner: @79DF93F2) (OK - 2)
+1734691 (2016-04-09 23:36:39,752) [WorkerThread-1] INFO      smartgit.command  - Commit [/home/timurk] / (amend=false;sign-off=false;pathsToInclude=[])
+1734692 (2016-04-09 23:36:39,753) [WorkerThread-1] INFO                q.exec  - Executing #42 [/home/timurk] /usr/bin/git commit --file=/tmp/smartgit4341466774036174710tmp/commit3013527962075499479.tmp
+1734823 (2016-04-09 23:36:39,884) [QThreadPoolThread-0 (stdout-#42 /usr/bin/git commit --file=/tmp/smartgit4341466774036174710tmp/commit3013527962075499479.tmp)] INFO  smartgit.command.logging  - stdout: [master 7a828b4] merge
+1734823 (2016-04-09 23:36:39,884) [QThreadPoolThread-0 (stdout-#42 /usr/bin/git commit --file=/tmp/smartgit4341466774036174710tmp/commit3013527962075499479.tmp)] INFO  smartgit.command.logging  - stdout:  2 files changed, 1497 insertions(+)
+1734824 (2016-04-09 23:36:39,885) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33826)
+1734853 (2016-04-09 23:36:39,914) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33832)
+1734854 (2016-04-09 23:36:39,915) [WorkerThread-1] INFO        sc.file.change  - Firing 17 changes for [/home/timurk] to 1 listeners (maxSeq=33831;latestSeq=33832)
+1734854 (2016-04-09 23:36:39,915) [WorkerThread-1] INFO  smartgit.command.refresh  - Post-command refresh for 18 paths for /home/timurk
+1734905 (2016-04-09 23:36:39,966) [WorkerThread-1] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1<files>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1734972 (2016-04-09 23:36:40,033) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@5CED3D73
+1735654 (2016-04-09 23:36:40,715) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33840)
+1735754 (2016-04-09 23:36:40,815) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33844)
+1735754 (2016-04-09 23:36:40,815) [QThreadPoolThread-0 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33843;latestSeq=33844)
+1735754 (2016-04-09 23:36:40,815) [QThreadPoolThread-0 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1735755 (2016-04-09 23:36:40,816) [QThreadPoolThread-1 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1735827 (2016-04-09 23:36:40,888) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@2DAD7733
+1741160 (2016-04-09 23:36:46,221) [main] INFO              q.action  - Performing 'push, Push..., Push local commits to the remote origin repository.'
+1741189 (2016-04-09 23:36:46,250) [main] INFO              q.dialog  - Showing dialog 30 (@58C992F8) '@19D00552 - Push' (owner: @79DF93F2)
+1741212 (2016-04-09 23:36:46,273) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Push}@58C992F8
+1741220 (2016-04-09 23:36:46,281) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Push}@58C992F8
+1742992 (2016-04-09 23:36:48,053) [main] INFO              q.action  - Performing 'Push' button in window @58C992F8 owner @79DF93F2
+1742992 (2016-04-09 23:36:48,053) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 30 (@58C992F8) '@19D00552 - Push' (owner: @79DF93F2)
+1742993 (2016-04-09 23:36:48,054) [main] INFO              q.dialog  - Disposing dialog 30 (@58C992F8) '@19D00552 - Push' (owner: @79DF93F2)
+1742998 (2016-04-09 23:36:48,059) [main] INFO              q.dialog  - Showed dialog 30 (@58C992F8) '@19D00552 - Push' (owner: @79DF93F2) (OK - 2)
+1742999 (2016-04-09 23:36:48,060) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@58C992F8 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1743000 (2016-04-09 23:36:48,061) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1743035 (2016-04-09 23:36:48,096) [WorkerThread-1] INFO      smartgit.command  - Push [/home/timurk] / (remoteID=[urlEntry=[origin(url=https://github.com/abraxees/settings.git)]];refToTargetBranchName={CgCommitRef[refs/heads/master]=smartgit.aSc@bf8d2a62};configureTracking=true;force=false;tags=false)
+1743039 (2016-04-09 23:36:48,100) [WorkerThread-1] INFO  smartgit.executable.remoteCmd  - Using system SSH client
+1743040 (2016-04-09 23:36:48,101) [WorkerThread-1] INFO                q.exec  - Executing #43 [/home/timurk] /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/heads/master
+1743936 (2016-04-09 23:36:48,997) [QThreadPoolThread-5 (smartgit.aVW)] INFO       smartgit.server  - Received command 'get-http-credentials'
+1743936 (2016-04-09 23:36:48,997) [QThreadPoolThread-5 (smartgit.aVW)] INFO       smartgit.server  -   params: id=5145114949400960085;remoteId=https://github.com/abraxees/settings.git;username=<unset>
+1743937 (2016-04-09 23:36:48,998) [QThreadPoolThread-5 (smartgit.aVW)] INFO         smartgit.http  - Authenticating at https://github.com/abraxees/settings.git using auto-generated credentials
+1743998 (2016-04-09 23:36:49,059) [QThreadPoolThread-5 (smartgit.aVW)] INFO       smartgit.server  - Received command 'get-http-credentials'
+1743999 (2016-04-09 23:36:49,060) [QThreadPoolThread-5 (smartgit.aVW)] INFO       smartgit.server  -   params: id=5145114949400960085;remoteId=https://github.com/abraxees/settings.git;username=<set>
+1743999 (2016-04-09 23:36:49,060) [QThreadPoolThread-5 (smartgit.aVW)] INFO         smartgit.http  - Authenticating at https://github.com/abraxees/settings.git using auto-generated credentials
+1744777 (2016-04-09 23:36:49,838) [QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he)] INFO  smartgit.command.logging  - stderr: error: failed to push some refs to 'https://github.com/abraxees/settings.git'
+1744781 (2016-04-09 23:36:49,842) [QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he)] INFO  smartgit.command.logging  - stderr: hint: Updates were rejected because the tip of your current branch is behind
+1744781 (2016-04-09 23:36:49,842) [QThreadPoolThread-0 (stdout-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he)] INFO  smartgit.command.logging  - stdout: To https://github.com/abraxees/settings.git
+1744781 (2016-04-09 23:36:49,842) [QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he)] INFO  smartgit.command.logging  - stderr: hint: its remote counterpart. Integrate the remote changes (e.g.
+1744781 (2016-04-09 23:36:49,842) [QThreadPoolThread-0 (stdout-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he)] INFO  smartgit.command.logging  - stdout: !	refs/heads/master:refs/heads/master	[rejected] (non-fast-forward)
+1744781 (2016-04-09 23:36:49,842) [QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he)] INFO  smartgit.command.logging  - stderr: hint: 'git pull ...') before pushing again.
+1744782 (2016-04-09 23:36:49,843) [QThreadPoolThread-0 (stdout-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he)] INFO  smartgit.command.logging  - stdout: Done
+1744782 (2016-04-09 23:36:49,843) [QThreadPoolThread-1 (stderr-#43 /usr/bin/git push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/he)] INFO  smartgit.command.logging  - stderr: hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+1744783 (2016-04-09 23:36:49,844) [WorkerThread-1] ERROR     smartgit.command  - Not all refs have been pushed.
+smartgit.fe: Not all refs have been pushed.
+	at smartgit.aSg.a(SourceFile:55)
+	at smartgit.aSg.a(SourceFile:105)
+	at smartgit.aSg.a(SourceFile:86)
+	at smartgit.aRF.a(SourceFile:46)
+	at smartgit.aDI.a(SourceFile:59)
+	at smartgit.aDI.a(SourceFile:22)
+	at smartgit.kq.a(SourceFile:91)
+	at smartgit.cj.a(SourceFile:42)
+	at smartgit.lH.run(SourceFile:103)
+	at smartgit.WU.run(SourceFile:53)
+1744783 (2016-04-09 23:36:49,844) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33864)
+1744864 (2016-04-09 23:36:49,925) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33868)
+1744865 (2016-04-09 23:36:49,926) [WorkerThread-1] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33867;latestSeq=33868)
+1744865 (2016-04-09 23:36:49,926) [WorkerThread-1] INFO  smartgit.command.refresh  - Post-command refresh for [/<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.smartgit/7.1/log.txt<empty>] for /home/timurk
+1744865 (2016-04-09 23:36:49,926) [WorkerThread-1] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1744947 (2016-04-09 23:36:50,008) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@2ABBA40A
+1744982 (2016-04-09 23:36:50,043) [main] INFO              q.dialog  - Show (warn): Command Failed - Executing a command has failed. - Not all refs have been pushed.
+1744985 (2016-04-09 23:36:50,046) [main] INFO              q.dialog  - Showing dialog 31 (@57BFE82D) '@78240F5C - Command Failed' (owner: @79DF93F2)
+1745000 (2016-04-09 23:36:50,061) [QThreadPoolThread-1 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33872)
+1745004 (2016-04-09 23:36:50,065) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Command Failed}@57BFE82D
+1745007 (2016-04-09 23:36:50,068) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Command Failed}@57BFE82D
+1745065 (2016-04-09 23:36:50,126) [QThreadPoolThread-1 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33876)
+1745065 (2016-04-09 23:36:50,126) [QThreadPoolThread-1 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33875;latestSeq=33876)
+1745065 (2016-04-09 23:36:50,126) [QThreadPoolThread-1 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1745065 (2016-04-09 23:36:50,126) [QThreadPoolThread-3 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1745280 (2016-04-09 23:36:50,341) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@744CF1E3
+1746937 (2016-04-09 23:36:51,998) [main] INFO              q.action  - Performing 'OK' button in window @57BFE82D owner @79DF93F2
+1746937 (2016-04-09 23:36:51,998) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 31 (@57BFE82D) '@78240F5C - Command Failed' (owner: @79DF93F2)
+1746938 (2016-04-09 23:36:51,999) [main] INFO              q.dialog  - Disposing dialog 31 (@57BFE82D) '@78240F5C - Command Failed' (owner: @79DF93F2)
+1746949 (2016-04-09 23:36:52,010) [main] INFO              q.dialog  - Showed dialog 31 (@57BFE82D) '@78240F5C - Command Failed' (owner: @79DF93F2) (OK - 2)
+1746949 (2016-04-09 23:36:52,010) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@57BFE82D to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1746950 (2016-04-09 23:36:52,011) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1747951 (2016-04-09 23:36:53,012) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33888)
+1747968 (2016-04-09 23:36:53,029) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33892)
+1747968 (2016-04-09 23:36:53,029) [QThreadPoolThread-0 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33891;latestSeq=33892)
+1747968 (2016-04-09 23:36:53,029) [QThreadPoolThread-0 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1747969 (2016-04-09 23:36:53,030) [QThreadPoolThread-1 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1748039 (2016-04-09 23:36:53,100) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@635F205A
+1754789 (2016-04-09 23:36:59,850) [QThreadPoolThread-0 (smartgit.bnV)] INFO  smartgit.repository.backgroundFetch  - Running background poll: [/home/timurk]
+1754803 (2016-04-09 23:36:59,864) [QThreadPoolThread-0 (smartgit.bnV)] INFO  smartgit.executable.remoteCmd  - Using system SSH client
+1754804 (2016-04-09 23:36:59,865) [QThreadPoolThread-0 (smartgit.bnV)] INFO                q.exec  - Executing #44 [/home/timurk] /usr/bin/git ls-remote origin refs/heads/master*
+1755672 (2016-04-09 23:37:00,733) [QThreadPoolThread-1 (stdout-#44 /usr/bin/git ls-remote origin refs/heads/master*)] INFO  smartgit.command.logging  - stdout: 15ea4850ed0f1d12c7e6875782f2b5130c627214	refs/heads/master
+1758839 (2016-04-09 23:37:03,900) [main] INFO              q.action  - Performing 'sync, Synchronize, Push local commits of the current branch and pull remote changes.'
+1758854 (2016-04-09 23:37:03,915) [main] INFO              q.dialog  - Show (warn): Synchronize - /home/timurk has no tracked branch. - Syncing requires working trees being on a local branch which is tracked.
+1758859 (2016-04-09 23:37:03,920) [main] INFO              q.dialog  - Showing dialog 32 (@1026E651) '@69DAD81F - Synchronize' (owner: @79DF93F2)
+1758880 (2016-04-09 23:37:03,941) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Synchronize}@1026E651
+1758884 (2016-04-09 23:37:03,945) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Synchronize}@1026E651
+1762959 (2016-04-09 23:37:08,020) [main] INFO              q.action  - Performing 'OK' button in window @1026E651 owner @79DF93F2
+1762959 (2016-04-09 23:37:08,020) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 32 (@1026E651) '@69DAD81F - Synchronize' (owner: @79DF93F2)
+1762960 (2016-04-09 23:37:08,021) [main] INFO              q.dialog  - Disposing dialog 32 (@1026E651) '@69DAD81F - Synchronize' (owner: @79DF93F2)
+1762964 (2016-04-09 23:37:08,025) [main] INFO              q.dialog  - Showed dialog 32 (@1026E651) '@69DAD81F - Synchronize' (owner: @79DF93F2) (OK - 2)
+1762965 (2016-04-09 23:37:08,026) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@1026E651 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1762965 (2016-04-09 23:37:08,026) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1763966 (2016-04-09 23:37:09,027) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33914)
+1763985 (2016-04-09 23:37:09,046) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33918)
+1763986 (2016-04-09 23:37:09,047) [QThreadPoolThread-0 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33917;latestSeq=33918)
+1763986 (2016-04-09 23:37:09,047) [QThreadPoolThread-0 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1763986 (2016-04-09 23:37:09,047) [QThreadPoolThread-1 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1764050 (2016-04-09 23:37:09,111) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@1E4E18F1
+1764584 (2016-04-09 23:37:09,645) [main] INFO              q.action  - Performing 'sync, Synchronize, Push local commits of the current branch and pull remote changes.'
+1764619 (2016-04-09 23:37:09,680) [main] INFO              q.dialog  - Show (warn): Synchronize - /home/timurk has no tracked branch. - Syncing requires working trees being on a local branch which is tracked.
+1764622 (2016-04-09 23:37:09,683) [main] INFO              q.dialog  - Showing dialog 33 (@23103E48) '@7F68FAF3 - Synchronize' (owner: @79DF93F2)
+1764642 (2016-04-09 23:37:09,703) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Synchronize}@23103E48
+1764646 (2016-04-09 23:37:09,707) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Synchronize}@23103E48
+1768031 (2016-04-09 23:37:13,092) [main] INFO              q.action  - Performing 'OK' button in window @23103E48 owner @79DF93F2
+1768031 (2016-04-09 23:37:13,092) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 33 (@23103E48) '@7F68FAF3 - Synchronize' (owner: @79DF93F2)
+1768032 (2016-04-09 23:37:13,093) [main] INFO              q.dialog  - Disposing dialog 33 (@23103E48) '@7F68FAF3 - Synchronize' (owner: @79DF93F2)
+1768036 (2016-04-09 23:37:13,097) [main] INFO              q.dialog  - Showed dialog 33 (@23103E48) '@7F68FAF3 - Synchronize' (owner: @79DF93F2) (OK - 2)
+1768037 (2016-04-09 23:37:13,098) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@23103E48 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1768037 (2016-04-09 23:37:13,098) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1769037 (2016-04-09 23:37:14,098) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33934)
+1769092 (2016-04-09 23:37:14,153) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33938)
+1769092 (2016-04-09 23:37:14,153) [QThreadPoolThread-0 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=33937;latestSeq=33938)
+1769093 (2016-04-09 23:37:14,154) [QThreadPoolThread-0 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1769094 (2016-04-09 23:37:14,155) [QThreadPoolThread-1 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1769159 (2016-04-09 23:37:14,220) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@617BBFB5
+1777456 (2016-04-09 23:37:22,517) [main] INFO              q.action  - Performing 'repositorySettings, Settings..., Configure repository-specific settings.' menu item in &Repository from menu in window org.eclipse.swt.widgets.Shell@79DF93F2:Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}
+1777461 (2016-04-09 23:37:22,522) [main] INFO              q.dialog  - Showing dialog 34 (@7F854922) '@7849896 - Repository Settings' (owner: @79DF93F2)
+1777550 (2016-04-09 23:37:22,611) [main] WARN             encodings  - Unsupported encoding: ISO-2022-CN
+1777596 (2016-04-09 23:37:22,657) [main] WARN             encodings  - Unsupported encoding: x-JISAutoDetect
+1777650 (2016-04-09 23:37:22,711) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Repository Settings}@7F854922
+1777657 (2016-04-09 23:37:22,718) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Repository Settings}@7F854922
+1784784 (2016-04-09 23:37:29,845) [main] INFO         q.radioButton  - radio button 'Rebase local branch onto fetched changes' selected in org.eclipse.swt.widgets.Shell@7F854922:Shell {Repository Settings}
+1790351 (2016-04-09 23:37:35,412) [main] INFO              q.action  - Performing 'OK' button in window @7F854922 owner @79DF93F2
+1790351 (2016-04-09 23:37:35,412) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 34 (@7F854922) '@7849896 - Repository Settings' (owner: @79DF93F2)
+1790351 (2016-04-09 23:37:35,412) [main] INFO              q.dialog  - Disposing dialog 34 (@7F854922) '@7849896 - Repository Settings' (owner: @79DF93F2)
+1790372 (2016-04-09 23:37:35,433) [main] INFO              q.dialog  - Showed dialog 34 (@7F854922) '@7849896 - Repository Settings' (owner: @79DF93F2) (OK - 2)
+1790373 (2016-04-09 23:37:35,434) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@7F854922 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1790373 (2016-04-09 23:37:35,434) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1791373 (2016-04-09 23:37:36,434) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=33976)
+1791419 (2016-04-09 23:37:36,480) [QThreadPoolThread-0 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=33980)
+1791419 (2016-04-09 23:37:36,480) [QThreadPoolThread-0 (smartgit.bod)] INFO        sc.file.change  - Firing 6 changes for [/home/timurk] to 1 listeners (maxSeq=33979;latestSeq=33980)
+1791419 (2016-04-09 23:37:36,480) [QThreadPoolThread-0 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1791441 (2016-04-09 23:37:36,502) [QThreadPoolThread-1 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/<empty>, /.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1791516 (2016-04-09 23:37:36,577) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@32A85F71
+1793423 (2016-04-09 23:37:38,484) [main] INFO              q.action  - Performing 'fetch, Pull..., Pull commits from a remote repository.'
+1793461 (2016-04-09 23:37:38,522) [main] INFO              q.dialog  - Showing dialog 35 (@51B3B64) '@3ED824DA - Pull' (owner: @79DF93F2)
+1793483 (2016-04-09 23:37:38,544) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Pull}@51B3B64
+1793489 (2016-04-09 23:37:38,550) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Pull}@51B3B64
+1801774 (2016-04-09 23:37:46,835) [main] INFO              q.action  - Performing 'Fetch Only' button in window @51B3B64 owner @79DF93F2
+1801775 (2016-04-09 23:37:46,836) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 35 (@51B3B64) '@3ED824DA - Pull' (owner: @79DF93F2)
+1801775 (2016-04-09 23:37:46,836) [main] INFO              q.dialog  - Disposing dialog 35 (@51B3B64) '@3ED824DA - Pull' (owner: @79DF93F2)
+1801784 (2016-04-09 23:37:46,845) [main] INFO              q.dialog  - Showed dialog 35 (@51B3B64) '@3ED824DA - Pull' (owner: @79DF93F2) (OK - 2)
+1801789 (2016-04-09 23:37:46,850) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@51B3B64 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1801789 (2016-04-09 23:37:46,850) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1801827 (2016-04-09 23:37:46,888) [WorkerThread-1] INFO      smartgit.command  - Fetch [/home/timurk] / (remote=[urlEntry=[origin(url=https://github.com/abraxees/settings.git)]];updateSubmodules=true;initializeSubmodules=true;remember=false)
+1801851 (2016-04-09 23:37:46,912) [WorkerThread-1] INFO  smartgit.executable.remoteCmd  - Using system SSH client
+1801853 (2016-04-09 23:37:46,914) [WorkerThread-1] INFO                q.exec  - Executing #45 [/home/timurk] /usr/bin/git fetch --progress --prune origin
+1802684 (2016-04-09 23:37:47,745) [WorkerThread-1] INFO    smartgit.submodule  - Updating submodules for /home/timurk (recursive=true;skipModifiedSubmodules=true)
+1802707 (2016-04-09 23:37:47,768) [WorkerThread-1] INFO                q.exec  - Executing #46 [/home/timurk] /usr/bin/git status --untracked-files=no --porcelain
+1802730 (2016-04-09 23:37:47,791) [WorkerThread-1] INFO  smartgit.executable.remoteCmd  - Using system SSH client
+1802730 (2016-04-09 23:37:47,791) [WorkerThread-1] INFO                q.exec  - Executing #47 [/home/timurk] /usr/bin/git ls-remote origin refs/heads/master*
+1803587 (2016-04-09 23:37:48,648) [QThreadPoolThread-1 (stdout-#47 /usr/bin/git ls-remote origin refs/heads/master*)] INFO  smartgit.command.logging  - stdout: 15ea4850ed0f1d12c7e6875782f2b5130c627214	refs/heads/master
+1803589 (2016-04-09 23:37:48,650) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=34008)
+1803634 (2016-04-09 23:37:48,695) [WorkerThread-1] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=34012)
+1803634 (2016-04-09 23:37:48,695) [WorkerThread-1] INFO        sc.file.change  - Firing 4 changes for [/home/timurk] to 1 listeners (maxSeq=34011;latestSeq=34012)
+1803635 (2016-04-09 23:37:48,696) [WorkerThread-1] INFO  smartgit.command.refresh  - Post-command refresh for [/.git/FETCH_HEAD<empty>, /.git/index.lock<infinity>, /<empty>, /.smartgit/7.1/~current-log.1460232465400.tmp<empty>, /.smartgit/7.1/log.txt<empty>] for /home/timurk
+1803637 (2016-04-09 23:37:48,698) [WorkerThread-1] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1803716 (2016-04-09 23:37:48,777) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@7FCDB8A0
+1803790 (2016-04-09 23:37:48,851) [QThreadPoolThread-1 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes, pending trigger file count is 0 (latestSeq=34016)
+1803834 (2016-04-09 23:37:48,895) [QThreadPoolThread-1 (smartgit.bod)] INFO       sc.file.monitor  - Collecting changes finished (latestSeq=34020)
+1803835 (2016-04-09 23:37:48,896) [QThreadPoolThread-1 (smartgit.bod)] INFO        sc.file.change  - Firing 2 changes for [/home/timurk] to 1 listeners (maxSeq=34019;latestSeq=34020)
+1803835 (2016-04-09 23:37:48,896) [QThreadPoolThread-1 (smartgit.bod)] INFO  smartgit.repository.backgroundScan  - Running background refresh: []
+1803835 (2016-04-09 23:37:48,896) [QThreadPoolThread-5 (Refresh-0)] INFO        smartgit.model  - Refresh /home/timurk [/.smartgit/7.1/log.txt<immediates>, /.smartgit/7.1/~current-log.1460232465400.tmp<immediates>]
+1804055 (2016-04-09 23:37:49,116) [main] INFO     sc.comparePreview  - file: (/.smartgit/7.1/log.txt;/.smartgit/7.1/log.txt;/@2E5094F3)@68A9E8DA
+1812870 (2016-04-09 23:37:57,931) [main] INFO              q.action  - Performing 'commit, Commit..., Commit local changes.'
+1812920 (2016-04-09 23:37:57,981) [main] INFO              q.dialog  - Showing dialog 36 (@71FA2083) '@5C6CB2EA - Commit' (owner: @79DF93F2)
+1812937 (2016-04-09 23:37:57,998) [main] INFO         q.radioButton  - radio button 'Local Changes' selected in org.eclipse.swt.widgets.Shell@71FA2083:Shell {Commit}
+1812960 (2016-04-09 23:37:58,021) [main] INFO  q.swt.shellActivation  - Activation change from Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2 to Shell {Commit}@71FA2083
+1812977 (2016-04-09 23:37:58,038) [main] INFO  q.swt.shellActivation  - Activation remains at Shell {Commit}@71FA2083
+1818271 (2016-04-09 23:38:03,332) [main] INFO              q.action  - Performing 'Commit' button in window @71FA2083 owner @79DF93F2
+1818271 (2016-04-09 23:38:03,332) [main] INFO              q.dialog  - Closing dialog with option OK - 2 - 36 (@71FA2083) '@5C6CB2EA - Commit' (owner: @79DF93F2)
+1818272 (2016-04-09 23:38:03,333) [main] INFO              q.dialog  - Disposing dialog 36 (@71FA2083) '@5C6CB2EA - Commit' (owner: @79DF93F2)
+1818283 (2016-04-09 23:38:03,344) [main] INFO  q.swt.shellActivation  - Activation change from Shell {*Disposed*}@71FA2083 to Shell {timurk - [~] - SmartGit 7.1.2 (for non-commercial use only)}@79DF93F2
+1818283 (2016-04-09 23:38:03,344) [main] INFO  smartgit.repository.backgroundScan  - Starting background refreshing.
+1818285 (2016-04-09 23:38:03,346) [main] INFO              q.dialog  - Showed dialog 36 (@71FA2083) '@5C6CB2EA - Commit' (owner: @79DF93F2) (OK - 2)
+1818330 (2016-04-09 23:38:03,391) [WorkerThread-1] INFO      smartgit.command  - Commit [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp] (amend=false;signOff=false)
+1818385 (2016-04-09 23:38:03,446) [WorkerThread-1] INFO      smartgit.command  - Files to stage [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp]
+1818387 (2016-04-09 23:38:03,448) [WorkerThread-1] INFO                q.exec  - Executing #48 [/home/timurk] /usr/bin/git add --force -- .smartgit/7.1/log.txt .smartgit/7.1/~current-log.1460232465400.tmp
+1818483 (2016-04-09 23:38:03,544) [WorkerThread-1] INFO      smartgit.command  - Files to commit [/.smartgit/7.1/log.txt, /.smartgit/7.1/~current-log.1460232465400.tmp]
+1818485 (2016-04-09 23:38:03,546) [WorkerThread-1] INFO                q.exec  - Executing #49 [/home/timurk] /usr/bin/git commit --file=/tmp/smartgit4341466774036174710tmp/commit9184702536716998035.tmp -o -- .smartgit/7.1/log.txt .smartgit/7.1/~current-log.1460232465400.tmp
