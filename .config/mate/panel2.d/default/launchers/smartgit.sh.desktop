@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/usr/share/smartgit/bin/smartgit-128.png
+Name[en_US]=Smartgit
+Exec=/usr/share/smartgit/bin/smartgit.sh
+Name=Smartgit
+Icon=/

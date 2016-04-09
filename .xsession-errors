@@ -2301,3 +2301,956 @@ compiz (decor) - Warn: failed to bind pixmap to texture
 debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
 debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
 /var/lib/dpkg/lock: 
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+/usr/share/system-config-printer/system-config-printer.py:2067: Warning: Source ID 454 was not found when attempting to remove it
+  GLib.source_remove (self.populateList_timer)
+/usr/share/system-config-printer/monitor.py:757: Warning: Source ID 1762 was not found when attempting to remove it
+  GLib.source_remove (self.update_timer)
+/usr/share/system-config-printer/system-config-printer.py:2067: Warning: Source ID 1779 was not found when attempting to remove it
+  GLib.source_remove (self.populateList_timer)
+/usr/share/system-config-printer/monitor.py:190: Warning: Source ID 1940 was not found when attempting to remove it
+  GLib.source_remove (timer)
+Unknown value for media-col: (unknown IPP value tag 0x34)
+Choices: [u'media-bottom-margin', u'media-left-margin', u'media-right-margin', u'media-size', u'media-source', u'media-top-margin', u'media-type']
+Selecting from choices: media-bottom-margin
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x1c09390' has no handler with id '10283'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2b30740' has no handler with id '22637'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2ad89a0' has no handler with id '22644'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2b33d40' has no handler with id '22651'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a8ee00' has no handler with id '22658'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x236bb80' has no handler with id '22665'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a89720' has no handler with id '22672'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a76820' has no handler with id '22679'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a76200' has no handler with id '22686'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x1f1f300' has no handler with id '22693'
+compiz (decor) - Warn: No default decoration found, placement will not be correct
+compiz (decor) - Warn: No default decoration found, placement will not be correct
+nm-applet-Message: moving back from GtkStatusIcon to indicator
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f8eed0b7760] multiple edit list entries, a/v desync might occur, patch welcome
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[0x1eae118] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+Not a native file, thumbnailing will likely fail
+Fontconfig warning: FcPattern object size does not accept value "0"
+Fontconfig warning: FcPattern object size does not accept value "0"
+Not a native file, thumbnailing will likely fail
+Fontconfig warning: FcPattern object size does not accept value "0"
+Fontconfig warning: FcPattern object size does not accept value "0"
+[0x7f8e924fc3e8] main vout display error: Failed to resize display
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fc86374d500] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fc86374e040] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fc86374d500] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[avi @ 0x7f068136b680] non-interleaved AVI
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f32a51c5520] multiple edit list entries, a/v desync might occur, patch welcome
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[avi @ 0x7fc201c2a6c0] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f5fff9a25c0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f5fff9a25c0] frame skip 8
+[mpeg4 @ 0x7f5fff9a3100] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f5fff9a3520] frame skip 8
+[mpeg4 @ 0x7f5fff9a25c0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f3b19b096a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f3b19b0a1e0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f3b19b096a0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fca654296a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fca6542a1e0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fca654296a0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f61e49e34a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f61e49e3fe0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f61e49e34a0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f2460ad9540] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f2460ad9540] frame skip 8
+[mpeg4 @ 0x7f2460ada080] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f2460ad9540] frame skip 8
+[mpeg4 @ 0x7f2460ada4a0] frame skip 8
+[mpeg4 @ 0x7f2460ada8e0] frame skip 8
+[mpeg4 @ 0x7f2460ad9540] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fc88e9cc5c0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fc88e9fc280] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fc88e9cc5c0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fa06d0bf560] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fa06d0c00a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fa06d0bf560] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7efd661e0620] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7efd661e0620] frame skip 8
+[mpeg4 @ 0x7efd661e0620] frame skip 8
+[mpeg4 @ 0x7efd661e0620] frame skip 8
+[mpeg4 @ 0x7efd661e1160] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7efd661e16e0] frame skip 8
+[mpeg4 @ 0x7efd661e1c40] frame skip 8
+[mpeg4 @ 0x7efd661e21c0] frame skip 8
+[mpeg4 @ 0x7efd661e0620] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f85fe15e660] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f85fe162100] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f85fe15e660] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7efc3e1c9620] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7efc3e1ca160] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7efc3e1c9620] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fec1f28a600] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fec1f28b140] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fec1f28a600] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[avi @ 0x7f1b6325d680] non-interleaved AVI
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fe911387100] looks like this file was encoded with (divx4/(old)xvid/opendivx) -> forcing low_delay flag
+[mpeg4 @ 0x7fe911387680] looks like this file was encoded with (divx4/(old)xvid/opendivx) -> forcing low_delay flag
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fde5d9727a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fde5d975fc0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fde5d9727a0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f983be10560] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f983be111c0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f983be10560] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fa5be4f6680] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fa5be4f72e0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fa5be4f6680] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f1cb9f18540] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f1cb9f1e440] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f1cb9f18540] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fb3beb06700] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7ff2ef828680] freeing incomplete packet size 4228, new 26623
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fa9b68c84a0] freeing incomplete packet size 4918, new 17693
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f95a199e4a0] freeing incomplete packet size 3838, new 12940
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fb613623700] freeing incomplete packet size 3241, new 4612
+[wmv3 @ 0x7fb613627d20] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f78ac865680] freeing incomplete packet size 5099, new 32923
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f80a9f37720] freeing incomplete packet size 3071, new 4800
+[wmv3 @ 0x7f80a9f3bd40] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f8c32cf6620] freeing incomplete packet size 4264, new 18625
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f85c285f4a0] freeing incomplete packet size 3855, new 4518
+[wmv3 @ 0x7f85c2863bc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f393bc784a0] freeing incomplete packet size 5264, new 19429
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f5ac03c5680] freeing incomplete packet size 3635, new 27887
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f96d31a46c0] freeing incomplete packet size 2512, new 32214
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f26c58bf4c0] freeing incomplete packet size 4872, new 4971
+[wmv3 @ 0x7f26c58c3ba0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fe156619640] freeing incomplete packet size 3304, new 2245
+[wmv3 @ 0x7fe15661dbc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f43a47cb6c0] freeing incomplete packet size 3655, new 3548
+[wmv3 @ 0x7f43a47cfcc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fcaffe064a0] freeing incomplete packet size 4863, new 3370
+[wmv3 @ 0x7fcaffe0abc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f6c100f76e0] max_analyze_duration reached
+[asf @ 0x7f6c100f76e0] freeing incomplete packet size 1390, new 706
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f25f79aa640] freeing incomplete packet size 4207, new 4119
+[wmv3 @ 0x7f25f79aec40] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fbe74d7d640] freeing incomplete packet size 2191, new 7986
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f6db81484a0] freeing incomplete packet size 4628, new 42198
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f8cd3d0c4a0] max_analyze_duration reached
+[asf @ 0x7f8cd3d0c4a0] freeing incomplete packet size 2426, new 11588
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f9cd6de9540] freeing incomplete packet size 4089, new 21049
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7ffba38a6720] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fa3773904a0] ignoring invalid packet_obj_size (490 270 270 1278)
+[asf @ 0x7fa3773904a0] ignoring invalid packet_obj_size (760 469 469 1278)
+[asf @ 0x7fa3773904a0] freeing incomplete packet size 1278, new 7043
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f479efeb660] freeing incomplete packet size 3552, new 5103
+[wmv3 @ 0x7f479efefc80] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f5d06faf4a0] freeing incomplete packet size 4468, new 20053
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f032eadb700] freeing incomplete packet size 4113, new 4008
+[wmv3 @ 0x7f032eadfd20] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fc8d4a3b4a0] freeing incomplete packet size 3838, new 4362
+[wmv3 @ 0x7fc8d4a3fc40] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f27020436a0] ignoring invalid packet_obj_size (728 2104 2104 4620)
+[asf @ 0x7f27020436a0] freeing incomplete packet size 4620, new 22789
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f5286930680] ignoring invalid packet_obj_size (219 4410 4410 4630)
+[asf @ 0x7f5286930680] freeing incomplete packet size 4630, new 26452
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f59040e9680] freeing incomplete packet size 4016, new 19411
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fe24170d620] freeing incomplete packet size 4138, new 21673
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7ffb9e695680] freeing incomplete packet size 4488, new 3566
+[wmv3 @ 0x7ffb9e699c80] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f52b2114680] freeing incomplete packet size 3566, new 20946
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f9a12618620] max_analyze_duration reached
+[asf @ 0x7f9a12618620] freeing incomplete packet size 760, new 4353
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fb47d613620] freeing incomplete packet size 3233, new 4728
+[wmv3 @ 0x7fb47d617c00] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f94f5e35520] max_analyze_duration reached
+[asf @ 0x7f94f5e35520] freeing incomplete packet size 429, new 8750
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f32507d6640] multiple edit list entries, a/v desync might occur, patch welcome
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f42e38c95e0] freeing incomplete packet size 4014, new 4350
+[wmv3 @ 0x7f42e38cdd20] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fcd5090a600] freeing incomplete packet size 5195, new 31365
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f1ca2e5c580] multiple edit list entries, a/v desync might occur, patch welcome
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fbb58639560] multiple edit list entries, a/v desync might occur, patch welcome
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f2506cf55c0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f2506cf6100] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f2506cf55c0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7ff82d757700] multiple edit list entries, a/v desync might occur, patch welcome
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7ffaed6b86a0] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f50df1666e0] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+[wmv3 @ 0x7fd327c21d00] Extra data: 8 bits left, value: 0
+[wmv3 @ 0x7fd327c21d00] Extra data: 8 bits left, value: 0
+[asf @ 0x7fd327c1d680] freeing incomplete packet size 4287, new 18069
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f85a6dd5700] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f91daed1540] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f91daed2080] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f91daed1540] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[wmv3 @ 0x7f7611db0f00] Extra data: 8 bits left, value: 0
+[wmv3 @ 0x7f7611db0f00] Extra data: 8 bits left, value: 0
+[asf @ 0x7f7611dac680] freeing incomplete packet size 7428, new 46383
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f22cf8776c0] freeing incomplete packet size 10224, new 32967
+Not a native file, thumbnailing will likely fail
+[wmv3 @ 0x7ff7f5db9040] Extra data: 8 bits left, value: 0
+[wmv3 @ 0x7ff7f5db9040] Extra data: 8 bits left, value: 0
+[asf @ 0x7ff7f5db46a0] freeing incomplete packet size 10654, new 53524
+Not a native file, thumbnailing will likely fail
+[wmv3 @ 0x7f6dad1ac0a0] Extra data: 8 bits left, value: 0
+[wmv3 @ 0x7f6dad1ac0a0] Extra data: 8 bits left, value: 0
+[asf @ 0x7f6dad1a76e0] freeing incomplete packet size 1998, new 1980
+[wmv3 @ 0x7f6dad1ac0a0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f5d1f7bd540] freeing incomplete packet size 4555, new 4357
+[wmv3 @ 0x7f5d1f7c1cc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f23927738e0] freeing incomplete packet size 4320, new 4253
+[wmv3 @ 0x7f2392777ea0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f77d877c680] freeing incomplete packet size 5321, new 32597
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f4bc77db520] freeing incomplete packet size 5201, new 23260
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f4c4ad8a6a0] freeing incomplete packet size 12366, new 11902
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fc109860700] freeing incomplete packet size 4949, new 3078
+[wmv3 @ 0x7fc109864ce0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f8403a77680] freeing incomplete packet size 3719, new 33618
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f710e540720] ignoring invalid packet_obj_size (36 4399 4399 4947)
+[asf @ 0x7f710e540720] freeing incomplete packet size 4947, new 19074
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f6040f24680] freeing incomplete packet size 6155, new 24312
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fcea724a700] freeing incomplete packet size 7153, new 15506
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f0a7f8b9680] freeing incomplete packet size 4512, new 18602
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fa3d1fb4540] freeing incomplete packet size 4716, new 31969
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f5652ca34e0] freeing incomplete packet size 4245, new 18946
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f8265e08680] freeing incomplete packet size 4617, new 26875
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fb71bc8f6e0] freeing incomplete packet size 3907, new 32770
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fb966463700] freeing incomplete packet size 3269, new 2842
+[wmv3 @ 0x7fb966467f00] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f3857753680] freeing incomplete packet size 4255, new 4186
+[wmv3 @ 0x7f3857757e00] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fce5ae99700] freeing incomplete packet size 4372, new 41505
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fd6e35f2640] freeing incomplete packet size 4045, new 4153
+[wmv3 @ 0x7fd6e35f6e00] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7efe98329680] freeing incomplete packet size 3424, new 4620
+[wmv3 @ 0x7efe9832dda0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f29f27524a0] freeing incomplete packet size 10824, new 29887
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f4de0ad76a0] freeing incomplete packet size 3892, new 3656
+[wmv3 @ 0x7f4de0adbdc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f9eebbc1680] freeing incomplete packet size 3940, new 19319
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f6ba07df680] freeing incomplete packet size 4022, new 4237
+[wmv3 @ 0x7f6ba07e3f20] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f437ea6a6e0] freeing incomplete packet size 5249, new 3204
+[wmv3 @ 0x7f437ea6ee40] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f74be7ec6a0] freeing incomplete packet size 5498, new 47769
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f1717c46660] freeing incomplete packet size 5979, new 49697
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fd9c713c700] freeing incomplete packet size 5948, new 4508
+[wmv3 @ 0x7fd9c7140ec0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f5e5ff9b6c0] freeing incomplete packet size 4778, new 23221
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f9811440680] freeing incomplete packet size 3825, new 4667
+[wmv3 @ 0x7f9811444d20] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f7c2e013680] freeing incomplete packet size 3835, new 3977
+[wmv3 @ 0x7f7c2e017ec0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f9998f6e680] freeing incomplete packet size 3191, new 19685
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f5a3284d700] ignoring invalid packet_obj_size (898 1874 1874 9354)
+[asf @ 0x7f5a3284d700] freeing incomplete packet size 9354, new 54702
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f50ca37f700] freeing incomplete packet size 5978, new 36523
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f45b030f680] freeing incomplete packet size 18110, new 20584
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fa132b9d4e0] freeing incomplete packet size 4614, new 42369
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fc1b75506e0] freeing incomplete packet size 3013, new 4349
+[wmv3 @ 0x7fc1b7554ee0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7ffba869db80] freeing incomplete packet size 3378, new 26831
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f5e4d8484a0] freeing incomplete packet size 15772, new 18008
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f24f3b65680] ignoring invalid packet_obj_size (1313 1848 1848 4828)
+[asf @ 0x7f24f3b65680] freeing incomplete packet size 4828, new 54983
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f641d622640] freeing incomplete packet size 3133, new 19164
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fb6f7cbb660] ignoring invalid packet_obj_size (979 3517 3517 5927)
+[asf @ 0x7fb6f7cbb660] freeing incomplete packet size 5927, new 34415
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fa3918aa6c0] freeing incomplete packet size 6156, new 62060
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f4a5f5f0520] freeing incomplete packet size 4337, new 29697
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f38510de680] freeing incomplete packet size 2608, new 48082
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fde6bd424a0] freeing incomplete packet size 3183, new 3847
+[wmv3 @ 0x7fde6bd46de0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7ff9f89f9660] freeing incomplete packet size 3982, new 31375
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7ff2561d24a0] freeing incomplete packet size 5555, new 2843
+[wmv3 @ 0x7ff2561d6e00] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fd1757f8640] freeing incomplete packet size 3703, new 52427
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7faa88985700] freeing incomplete packet size 4131, new 30937
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f4c807aa640] freeing incomplete packet size 3134, new 20657
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fef4c68b660] freeing incomplete packet size 5372, new 25133
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fb517c456a0] ignoring invalid packet_obj_size (131 4202 4202 4481)
+[asf @ 0x7fb517c456a0] freeing incomplete packet size 4481, new 3515
+[wmv3 @ 0x7fb517c49e00] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fe8ddf39680] freeing incomplete packet size 5460, new 27246
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f97cfaf9680] freeing incomplete packet size 4162, new 31321
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f3bc53e9680] freeing incomplete packet size 4622, new 47119
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f358fa50700] freeing incomplete packet size 4551, new 4192
+[wmv3 @ 0x7f358fa54ea0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f26b1d84720] freeing incomplete packet size 4362, new 3948
+[wmv3 @ 0x7f26b1d88ea0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fd67dcd5640] ignoring invalid packet_obj_size (234 3172 3172 4292)
+[asf @ 0x7fd67dcd5640] freeing incomplete packet size 4292, new 37346
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fedddc96580] freeing incomplete packet size 4515, new 19403
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f77964a86e0] freeing incomplete packet size 3682, new 4522
+[wmv3 @ 0x7f77964acea0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f9449c14700] freeing incomplete packet size 3829, new 19778
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fba32bb96a0] freeing incomplete packet size 3374, new 17104
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fd11ae28680] freeing incomplete packet size 4207, new 27538
+Not a native file, thumbnailing will likely fail
+[wmv3 @ 0x7f95945a3d20] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fc166b9d700] freeing incomplete packet size 3243, new 4986
+[wmv3 @ 0x7fc166ba1ea0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f493867c520] freeing incomplete packet size 3985, new 20029
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f4bbfced4a0] freeing incomplete packet size 4228, new 3932
+[wmv3 @ 0x7f4bbfcf1de0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f83057564a0] freeing incomplete packet size 3335, new 4060
+[wmv3 @ 0x7f830575ad60] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f827dfb2680] freeing incomplete packet size 3962, new 24105
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f9abc1ea700] freeing incomplete packet size 4392, new 22149
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f0765af3640] ignoring invalid packet_obj_size (51 4325 4325 4755)
+[asf @ 0x7f0765af3640] freeing incomplete packet size 4755, new 36418
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fd8f592d680] freeing incomplete packet size 4433, new 23174
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f6cf5da7680] freeing incomplete packet size 1917, new 43997
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f0ae811f660] freeing incomplete packet size 4281, new 39315
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f49dc1696a0] freeing incomplete packet size 4571, new 20320
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fc8b60794a0] freeing incomplete packet size 3941, new 20354
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fe144430640] freeing incomplete packet size 4721, new 3724
+[wmv3 @ 0x7fe144434dc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f8e3ec12680] freeing incomplete packet size 5198, new 48768
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f19740424a0] freeing incomplete packet size 3554, new 21234
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f970de6d680] freeing incomplete packet size 4408, new 15070
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f7043a3a6e0] freeing incomplete packet size 5300, new 5712
+[wmv3 @ 0x7f7043a3ed00] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f750dcc54e0] freeing incomplete packet size 5125, new 4784
+[wmv3 @ 0x7f750dcc9cc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fd9e2993680] freeing incomplete packet size 4537, new 3304
+[wmv3 @ 0x7fd9e2997c80] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fbeb4559680] freeing incomplete packet size 4584, new 34288
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f4ca4dcd700] freeing incomplete packet size 13785, new 14612
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f06cebaf700] freeing incomplete packet size 3582, new 22831
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f95d2c1e680] freeing incomplete packet size 2716, new 21555
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f562d9fe6e0] freeing incomplete packet size 3274, new 17393
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7fea3ab274a0] freeing incomplete packet size 4120, new 24624
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f81ef3f6680] freeing incomplete packet size 3244, new 20559
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f0be10894e0] freeing incomplete packet size 4201, new 4469
+[wmv3 @ 0x7f0be108dca0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7ff62cb606c0] freeing incomplete packet size 3285, new 4078
+[wmv3 @ 0x7ff62cb64cc0] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f1ed4d624a0] freeing incomplete packet size 3543, new 4399
+[wmv3 @ 0x7f1ed4d66c60] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f8002ecd700] freeing incomplete packet size 12627, new 15225
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f6fe17fc480] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f6fe18011e0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f6fe17fc480] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fedad311680] multiple edit list entries, a/v desync might occur, patch welcome
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f7ead8d2720] multiple edit list entries, a/v desync might occur, patch welcome
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f40f0aba6e0] multiple edit list entries, a/v desync might occur, patch welcome
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f40f0aba6e0] multiple edit list entries, a/v desync might occur, patch welcome
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f40f0aba6e0] Referenced QT chapter track not found
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f40f0aba6e0] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7faecd0674c0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7faecd06af40] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7faecd0674c0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[avi @ 0x7f3f35c716e0] non-interleaved AVI
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg @ 0x7fadc64245a0] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f4f1c741740] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f4f1c7423a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f4f1c741740] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7ff614787600] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7ff614788140] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7ff614787600] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f96cd165600] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f96cd166140] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f96cd165600] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f75654f7600] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f75654f8140] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f75654f7600] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f300c2ff5a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f300c2ff5a0] frame skip 8
+[mpeg4 @ 0x7f300c3000e0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f300c300500] frame skip 8
+[mpeg4 @ 0x7f300c2ff5a0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f8090475620] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f809047a7a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f8090475620] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg @ 0x7f2a18207740] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f15d3ec25e0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f15d3ec25e0] frame skip 8
+[mpeg4 @ 0x7f15d3ec3120] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f15d3ec3540] frame skip 8
+[mpeg4 @ 0x7f15d3ec25e0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f72b80af620] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f72b80af620] frame skip 8
+[mpeg4 @ 0x7f72b80b0160] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f72b80b06e0] frame skip 8
+[mpeg4 @ 0x7f72b80af620] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fa64f9415a0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fa64f9415a0] frame skip 8
+[mpeg4 @ 0x7fa64f981d00] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fa64f9420e0] frame skip 8
+[mpeg4 @ 0x7fa64f9415a0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f8a93737580] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f8a9373bd00] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f8a93737580] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7ff3de18e4c0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7ff3de18f000] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7ff3de18e4c0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f4c358a64c0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f4c358ab420] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f4c358a64c0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f7f17e9c5c0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f7f17e9d100] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f7f17e9c5c0] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fe8a2c6f640] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fe8a2c730e0] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7fe8a2c6f640] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7f1f961c5560] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f1f961c8a80] Invalid and inefficient vfw-avi packed B frames detected
+[mpeg4 @ 0x7f1f961c5560] Invalid and inefficient vfw-avi packed B frames detected
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[wmv3 @ 0x7f2e9f1f9760] Extra data: 8 bits left, value: 0
+[wmv3 @ 0x7f2e9f1f9760] Extra data: 8 bits left, value: 0
+[asf @ 0x7f2e9f1f56e0] freeing incomplete packet size 8125, new 8029
+[wmv3 @ 0x7f2e9f1f9760] warning: first frame is no keyframe
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[avi @ 0x7fae1e2f1680] non-interleaved AVI
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[asf @ 0x7f3a5dd45720] max_analyze_duration reached
+[asf @ 0x7f3a5dd45720] freeing incomplete packet size 13563, new 53848
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7f7356c686e0] max_analyze_duration reached
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+[mpeg4 @ 0x7fb4502300a0] looks like this file was encoded with (divx4/(old)xvid/opendivx) -> forcing low_delay flag
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+Not a native file, thumbnailing will likely fail
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a83c90' has no handler with id '61606'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x20214c0' has no handler with id '30715'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x1fc1ae0' has no handler with id '30722'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x1d96ea0' has no handler with id '30729'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x1fecb80' has no handler with id '30736'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2716f00' has no handler with id '30743'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2b30740' has no handler with id '30750'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a8ee00' has no handler with id '30757'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a89720' has no handler with id '30764'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a76820' has no handler with id '30771'
+
+(caja:16071): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:2580: instance '0x2a76200' has no handler with id '30778'

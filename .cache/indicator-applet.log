@@ -1,0 +1,6 @@
+Binding '<Super>M' failed!
+
+Connected to Application Indicator Service.
+Request current apps
+Building new application entry: :1.39  with icon: blueman-tray at position 0
+indicator-sound: new_volume_slider_widget
